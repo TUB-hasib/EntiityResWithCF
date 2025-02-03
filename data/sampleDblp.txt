@@ -1,0 +1,816 @@
+#*Protein Kinase C, Models of.
+#@Kim L. Blackwell
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e8
+
+#*Stimulus Reconstruction from Cortical Responses.
+#@Nima Mesgarani
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e9
+
+#*Neuromuscular Control Systems, Models of.
+#@James J. Abbas
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273ea
+
+#*Spinal Interfaces: Overview.
+#@Michel Lemay
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273eb
+
+#*Visual Prosthesis, Subretinal Devices.
+#@Eberhart Zrenner
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273ec
+
+#*Comparative Analysis of Half-Center Central Pattern Generators (CPGs).
+#@Jonathan Rubin
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e0
+
+#*Basal Ganglia: Decision-Making.
+#@Wei Wei, Xiao-Jing Wang
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e1
+
+#*Generalized Linear Models for Point Process Analyses of Neural Spiking Activity.
+#@Zhe Chen, Emery N. Brown
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e2
+
+#*Q10: The Effect of Temperature on Ion Channel Kinetics.
+#@David C. Sterratt
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e3
+
+#*Pitch Perception, Models.
+#@Jan W. H. Schnupp
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e4
+
+#*Vertebrate Pattern Generation: Overview.
+#@Ilya Rybak
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e5
+
+#*Spatiotemporal Energy Models.
+#@Wyeth Bair
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e6
+
+#*Connectivity Analysis in Normal and Pathological Brains.
+#@Claus C. Hilgetag
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e7
+
+#*On Solving Efficiently the View Selection Problem under Bag-semantics.
+#@Foto N. Afrati, Matthew Damigos, Manolis Gergatsoulis
+#t2008
+#cBIRTE (Informal Proceedings)
+#index53e9b29cb7602d9703d46c7d
+#%53e9aa16b7602d9703385d25
+
+#*Spinal Stimulation for Parkinson Treatment.
+#@Romulo Fuentes
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273cf
+
+#*Accumulation of Evidence in Decision Making.
+#@Alexander C. Huk, Leor N. Katz, Jacob L. Yates
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d8
+
+#*Coordinate Transformations, Role of Spinal Cord in.
+#@Yifat Prut
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d9
+
+#*Pathological Changes in Peripheral Nerve Excitability.
+#@Steven A. Prescott
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273da
+
+#*Spike Train Analysis: Overview.
+#@Sonja Grün
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273db
+
+#*Phase Transitions, Neural Population Models and.
+#@D. Alistair Steyn-Ross, Moira L. Steyn-Ross, Jamie W. Sleigh
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273dc
+
+#*Calcium-Dependent Exocytosis, Biophysical Models of.
+#@Victor Matveev
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273dd
+
+#*Morphoelectrotonic Transform.
+#@William R. Holmes
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273de
+
+#*SenseLab: Integration of Multidisciplinary Neuroscience Data.
+#@Gordon M. Shepherd, Thomas M. Morse, Luis N. Marenco, Kei-Hoi Cheung, Ted Carnevale, Michele Migliore, Robert A. McDougal, Michael L. Hines, Perry L. Miller
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273df
+
+#*Phase Models, Noisy.
+#@G. Bard Ermentrout
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d0
+
+#*Spectral Methods in Neural Data Analysis: Overview.
+#@Steven L. Bressler
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d1
+
+#*Center-Surround Processing, Computational Role of.
+#@Udo Ernst
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d2
+
+#*Chloride Channels.
+#@Steven A. Prescott
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d3
+
+#*Biophysical Models of Olfactory Mitral and Granule Cells.
+#@Guoshi Li
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d4
+
+#*Time-Delayed Neural Networks: Stability and Oscillations.
+#@Jianhong Wu, Sue Ann Campbell, Jacques Bélair
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d5
+
+#*Basal Ganglia: Habit Formation.
+#@Barbara J. Knowlton
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d6
+
+#*Vestibular Function After Cochlear Implantation.
+#@Stephen O'Leary
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273d7
+
+#*Results of two global optimization algorithms applied to a problem in biomechanics.
+#@Nicholas R. Radcliffe, David R. Easterling, Layne T. Watson, Michael L. Madigan, Kathleen A. Bieryla
+#t2010
+#cSpringSim
+#index53e9affbb7602d9703a5576e
+#%53e9b976b7602d970456704c
+#%53e9993fb7602d970217bd65
+
+#*NEEL: The Nested Complex Event Language for Real-Time Event Analytics.
+#@Mo Liu, Elke A. Rundensteiner, Daniel J. Dougherty, Chetan Gupta, Song Wang, Ismail Ari, Abhay Mehta
+#t2010
+#cBIRTE
+#index53e9b7c7b7602d970436fe69
+#%53e9ac42b7602d970360e28e
+
+#*Affine-Invariant Local Descriptors and Neighborhood Statistics for Texture Recognition.
+#@Svetlana Lazebnik, Cordelia Schmid, Jean Ponce
+#t2003
+#cICCV
+#index53e9a34ab7602d9702c564c4
+#%53e99ea7b7602d9702772d71
+
+#*Reducing Drift in Parametric Motion Tracking.
+#@Ali Rahimi, Louis-Philippe Morency, Trevor Darrell
+#t2001
+#cICCV
+#index53e9a42bb7602d9702d4568a
+
+#*Algorithmic complexity for psychology: A user-friendly implementation of the coding theorem method.
+#@Nicolas Gauvrit, Henrik Singmann, Fernando Soler-Toscano, Hector Zenil
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b477
+
+#*Object Segmentation in Images using EEG Signals.
+#@Eva Mohedano, Graham Healy, Kevin McGuinness, Xavier Giró i Nieto, Noel E. O'Connor, Alan F. Smeaton
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b476
+
+#*An Anonymous Communication Scheme based on Ring Signature in VANETs.
+#@Yichen Jiang, Yi Ji, Tianhua Liu
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b475
+
+#*A Comparison of learning algorithms on the Arcade Learning Environment.
+#@Aaron Defazio, Thore Graepel
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b474
+
+#*Daily rhythms in mobile telephone communication.
+#@Talayeh Aledavood, Eduardo López, Sam G. B. Roberts, Felix Reed-Tsochas, Esteban Moro Egido, Robin I. M. Dunbar, Jari Saramäki
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b473
+
+#*Remote sensing image classification exploiting multiple kernel learning.
+#@Claudio Cusano, Paolo Napoletano, Raimondo Schettini
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b472
+
+#*Object-Oriented Networking.
+#@Panos Georgatsos, Paris Flegkas, Vasilis Sourlas, Leandros Tassiulas
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b471
+
+#*Tree Search and Quantum Computation.
+#@Luís Tarrataca, Andreas Wichert
+#t2015
+#cCoRR
+#index53e9b5f4b7602d97041480fb
+#%53e9b98ab7602d970457b920
+#%53e9a060b7602d9702945d27
+#%53e99b36b7602d97023d5011
+#%53e9af87b7602d97039d0de6
+#%53e99905b7602d97021425d8
+#%53e9a0a5b7602d970298b176
+#%53e9a8ccb7602d9703219438
+#%53e99a6eb7602d97022def09
+#%53e997a2b7602d9701f726ca
+#%53e9b84ab7602d970440dcf4
+#%53e9b937b7602d9704522d13
+#%53e9b1ddb7602d9703c71864
+#%53e997c6b7602d9701fb79f5
+#%53e9b9b9b7602d97045ab028
+#%53e99833b7602d9702058790
+#%53e9ac62b7602d9703630d69
+#%53e99960b7602d97021a278e
+#%53e9ab4fb7602d97034e0dea
+#%53e9b11db7602d9703b9f622
+#%53e9a7d5b7602d9703112ad8
+#%53e9ad33b7602d9703714a8c
+
+#*Hands Deep in Deep Learning for Hand Pose Estimation.
+#@Markus Oberweger, Paul Wohlhart, Vincent Lepetit
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47f
+
+#*The "Tournaments" Metaphor in Citation Impact Studies: Power-Weakness Ratios (PWR) as a Journal Indicator.
+#@Loet Leydesdorff, Wouter de Nooy, Lutz Bornmann, Gangan Prathap
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47e
+
+#*Optimal Cell Load and Throughput in Green Small Cell Networks with Generalized Cell Association.
+#@Chun-Hung Liu, Li-Chun Wang
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47d
+
+#*Personalized Medical Treatments Using Novel Reinforcement Learning Algorithms.
+#@Yousuf M. Soliman
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47c
+
+#*Max-Product Belief Propagation for Linear Programming: Convergence and Correctness.
+#@Sejun Park, Jinwoo Shin
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b47b
+
+#*Real-time Monocular Object SLAM.
+#@Dorian Gálvez-López, Marta Salas, Juan D. Tardós, J. M. M. Montiel
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b47a
+
+#*Information-theoretic considerations concerning the origin of life.
+#@Christoph Adami
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b479
+
+#*Non-Monotonic Reasoning and Story Comprehension.
+#@Irene-Anna Diakidoy, Antonis C. Kakas, Loizos Michael, Rob Miller 0002
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b478
+
+#*An Unsupervised Learning Method for Early Event Detection in Smart Grid with Big Data.
+#@Xing He, Robert Caiming Qiu, Qian Ai, Xinyi Xu
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46f
+
+#*Learning Immune-Defectives Graph through Group Tests.
+#@Abhinav Ganesan, Sidharth Jaggi, Venkatesh Saligrama
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46e
+
+#*Video Text Localization with an emphasis on Edge Features.
+#@B. H. Shekar, L. Smitha M.
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46d
+
+#*Sliding window-based Contention Resolution Diversity Slotted ALOHA.
+#@Alessio Meloni, Maurizio Murroni, Christian Kissling, Matteo Berioli
+#t2015
+#cCoRR
+#index53e9a41cb7602d9702d37e2b
+
+#*Quantitative Analysis of Probabilistic Models of Software Product Lines with Statistical Model Checking.
+#@Maurice H. ter Beek, Axel Legay, Alberto Lluch-Lafuente, Andrea Vandin
+#t2015
+#cFMSPLE
+#index5550417145ce0a409eb3b46b
+
+#*Coordination in distributed networks via coded actions with application to power control.
+#@Benjamin Larrousse, Samson Lasaulce, Matthieu Bloch
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b46a
+
+#*Proximal Algorithms in Statistics and Machine Learning.
+#@Nicholas G. Polson, James G. Scott, Brandon T. Willard
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b469
+
+#*Word-Sense Disambiguation Using Decomposable Models.
+#@Rebecca F. Bruce, Janyce Wiebe
+#t1994
+#cCoRR
+#index53e9a423b7602d9702d3db3a
+#%53e9b97cb7602d970456cbc6
+#%53e9a81fb7602d970316393e
+#%53e997bab7602d9701fa1ace
+#%53e9a2d6b7602d9702bdfd24
+#%53e99a20b7602d9702279500
+#%53e9a423b7602d9702d3dca1
+#%53e9a5b7b7602d9702ee25e4
+#%53e9aaa9b7602d9703424d7a
+#%53e99f94b7602d970286a80e
+#%53e99e69b7602d970272bde4
+
+#*Parameterized Complexity of Superstring Problems.
+#@Ivan Bliznets, Fedor V. Fomin, Petr A. Golovach, Nikolay Karpov, Alexander S. Kulikov, Saket Saurabh
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4f6
+
+#*Single Pass Spectral Sparsification in Dynamic Streams.
+#@Michael Kapralov, Yin Tat Lee, Cameron Musco, Christopher Musco, Aaron Sidford
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f5
+
+#*Efficient Design of Reversible Sequential Circuit.
+#@Md. Selim Al Mamun, Indrani Mandal, Md. Hasanuzzaman
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f4
+
+#*SocialDTN: A DTN implementation for Digital and Social Inclusion.
+#@Waldir Aranha Moreira Junior, Ronedo Ferreira, Douglas Cirqueira, Paulo Mendes, Eduardo Cerqueira
+#t2014
+#cCoRR
+#index53e9a0fbb7602d97029e91c3
+#%53e99bdcb7602d9702485738
+#%53e9b12ab7602d9703bad962
+#%53e9ae17b7602d970382743c
+
+#*Refined Upper Bounds on Stopping Redundancy of Binary Linear Codes.
+#@Yauhen Yakimenka, Vitaly Skachek
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f2
+
+#*The meaning-frequency law in Zipfian optimization models of communication.
+#@Ramon Ferrer-i-Cancho
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f1
+
+#*Trade-Offs in Exploiting Body Morphology for Control: from Simple Bodies and Model-Based Control to Complex Bodies with Model-Free Distributed Control Schemes.
+#@Matej Hoffmann, Vincent Müller
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f0
+
+#*An Effective Handover Analysis for the Randomly Distributed Heterogeneous Cellular Networks.
+#@Bin Fang, Wuyang Zhou
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4ff
+
+#*Context dependent preferential attachment model for complex networks.
+#@Pradumn Kumar Pandey, Bibhas Adhikari
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4fe
+
+#*The Value of Local Delayed CSIT.
+#@Alireza Vahid, A. Robert Calderbank
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4fd
+
+#*Some New Directions for ACP Research.
+#@André van Delft
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4fc
+
+#*Rotation-invariant convolutional neural networks for galaxy morphology prediction.
+#@Sander Dieleman, Kyle W. Willett, Joni Dambre
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4fb
+
+#*Performance Impact of LoS and NLoS Transmissions in Small Cell Networks.
+#@Ming Ding, Peng Wang, David López-Pérez, Guoqiang Mao, Zihuai Lin
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4fa
+
+#*Planar Induced Subgraphs of Sparse Graphs.
+#@Glencora Borradaile, David Eppstein, Pingan Zhu
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f9
+
+#*CosmoMC Installation and Running Guidelines.
+#@Ming-Hua Li, Ping Wang, Zhe Chang, Dong Zhao
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4f8
+
+#*A Clustering Coefficient to Identify Important Nodes in Bipartite Networks.
+#@J. Liebig, A. Rao
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4e7
+
+#*Handshaking Protocol for Distributed Implementation of Reo.
+#@Natallia Kokash
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4e6
+
+#*Unregularized Online Learning Algorithms with General Loss Functions.
+#@Yiming Ying, Ding-Xuan Zhou
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4e5
+
+#*Reliability of Erasure Coded Storage Systems: A Geometric Approach.
+#@Antonio Campello, Vinay A. Vaishampayan
+#t2014
+#cCoRR
+#index53e9bbb5b7602d9704801f87
+
+#*Controlled Query Evaluation for Datalog and OWL 2 Profile Ontologies.
+#@Bernardo Cuenca Grau, Evgeny Kharlamov, Egor V. Kostylev, Dmitriy Zheleznyakov
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4e3
+
+#*Broadbeam for Massive MIMO Systems.
+#@Deli Qiao, Haifeng Qian, Geoffrey Ye Li
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4e2
+
+#*On the Classification of MDS Codes.
+#@Janne I. Kokkala, Denis S. Krotov, Patric R. J. Östergård
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4e1
+
+#*A mathematical theory of resources.
+#@Bob Coecke, Tobias Fritz, Robert W. Spekkens
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4e0
+
+#*Where's My Drink? Enabling Peripheral Real World Interactions While Using HMDs.
+#@Pulkit Budhiraja, Rajinder Sodhi, Brett R. Jones, Kevin Karsch, Brian P. Bailey, David A. Forsyth
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4ef
+
+#*On the structure of 1-perfectly orientable graphs.
+#@Tatiana Romina Hartinger, Martin Milanic
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4ee
+
+#*A Simple Expression for Mill's Ratio of the Student's t-Distribution.
+#@Francesco Orabona
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4ed
+
+#*A numbers-on-foreheads game.
+#@Sune K. Jakobsen
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4ec
+
+#*Constructive Interference through Symbol Level Precoding for Multi-level Modulation.
+#@Maha Alodeh, Symeon Chatzinotas, Björn E. Ottersten
+#t2015
+#cCoRR
+#    urlAcm = "https://lfs.aminer.cn/lab-datasets/citation/citation-acm-v8.txt.tgz"
+    urlDblp = "https://lfs.aminer.cn/lab-datasets/citation/dblp.v8.tgz"5550417145ce0a409eb3b4eb
+
+#*Push is Fast on Sparse Random Graphs.
+#@Meier Florian, Peter Ueli
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4ea
+
+#*On Factors Affecting the Usage and Adoption of a Nation-wide TV Streaming Service.
+#@Dmytro Karamshuk, Nishanth Sastry, Andrew Secker, Jigna Chandaria
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4e9
+
+#*On the equivalence between low rank matrix completion and tensor rank.
+#@Harm Derksen
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4e8
+
+#*Weighted decomposition in high-performance lattice-Boltzmann simulations: are some lattice sites more equal than others?
+#@Derek Groen, David Abou Chacra, Rupert W. Nash, Jirí Jaros, Miguel O. Bernabeu, Peter V. Coveney
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d7
+
+#*A Coordinated MDP Approach to Multi-Agent Planning for Resource Allocation, with Applications to Healthcare.
+#@Hadi Hosseini, Jesse Hoey, Robin Cohen
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d6
+
+#*Comparing CSI and PCA in Amalgamation with JPEG for Spectral Image Compression.
+#@Muhammad Safdar, Ming Ronnier Luo, Xiaoyu Liu
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d5
+
+#*Automated Postediting of Documents.
+#@Kevin Knight, Ishwar Chander
+#t1994
+#cCoRR
+#index53e99a52b7602d97022b610e
+
+#*Learning of Proto-object Representations via Fixations on Low Resolution.
+#@Chengyao Shen, Xun Huang, Qi Zhao
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d3
+
+#*Deterministic Annealing for Stochastic Variational Inference.
+#@Farhan Abrol, Stephan Mandt, Rajesh Ranganath, David M. Blei
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d2
+
+#*Salient Object Detection: A Benchmark.
+#@Ali Borji, Ming-Ming Cheng, Huaizu Jiang, Jia Li
+#t2015
+#cCoRR
+#index53e9b53cb7602d970407502d
+#%53e9b78ab7602d9704334b3a
+#%53e9b6cab7602d97042520b8
+#%53e9b5e0b7602d970412da0b
+#%53e9a610b7602d9702f3d389
+#%53e99a0ab7602d970225b4d8
+#%53e9af19b7602d97039518aa
+#%53e9b52cb7602d970405ff52
+#%53e997ccb7602d9701fbfa45
+#%53e9ae8ab7602d97038aaf84
+#%53e99e94b7602d970275cfca
+#%53e9a6d8b7602d970300bc1c
+#%53e99b56b7602d97023fb473
+#%53e9b60eb7602d9704166e2f
+#%53e997f1b7602d9701ff2d47
+#%53e99f35b7602d9702803dbb
+#%53e9bdb8b7602d9704a6460f
+#%53e99d80b7602d970263a681
+#%53e99cc9b7602d970257be34
+#%53e9bbc2b7602d970480bd3e
+
+#*Data-Efficient Minimax Quickest Change Detection in a Decentralized System.
+#@Taposh Banerjee, Venugopal V. Veeravalli
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d0
+
+#*Which phylogenetic networks are merely trees with additional arcs?
+#@Andrew R. Francis, Mike Steel
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4df
+
+#*Repairable Block Failure Resilient Codes.
+#@Gokhan Calis, Onur Ozan Koyluoglu
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4de
+
+#*Background Subtraction via Generalized Fused Lasso Foreground Modeling.
+#@Bo Xin, Yuan Tian, Yizhou Wang, Wen Gao
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4dd
+
+#*Decoupled Adapt-then-Combine diffusion networks with adaptive combiners.
+#@Jesus Fernandez-Bes, Jerónimo Arenas-García, Magno T. M. Silva, Luis Antonio Azpicueta-Ruiz
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4dc
+
+#*Data Assimilation by Artificial Neural Networks for an Atmospheric General Circulation Model: Conventional Observation.
+#@Rosangela S. Cintra, Haroldo F. de Campos Velho
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4db
+
+#*Polar Lattices are Good for Lossy Compression.
+#@Ling Liu, Cong Ling
+#t2015
+#cCoRR
+#index5550417145ce0a409eb3b4da
+
+#*State of Charge Evolution Equations for Flywheels.
+#@Dariush Fooladivanda, G. Mancini, S. Garg, Catherine Rosenberg
+#t2014
+#cCoRR
+#index5550417145ce0a409eb3b4d9
+
+
+#*Report on the workshop on wrapper techniques for legacy data systems.
+#@Philippe Thiran, Tore Risch, Carmen Costilla, Jean Henrard, Thomas Kabisch, Johan Petrini, Willem-Jan van den Heuvel, Jean-Luc Hainaut
+#t2005
+#cSIGMOD Record
+#index53e998a3b7602d97020ddb24
+
+#*An initial study of overheads of eddies.
+#@Amol Deshpande
+#t2004
+#cSIGMOD Record
+#index53e9a515b7602d9702e350a0
+#%53e9aa57b7602d97033c7c24
+
+#*On energy management, load balancing and replication.
+#@Willis Lang, Jignesh M. Patel, Jeffrey F. Naughton
+#t2009
+#cSIGMOD Record
+#index53e9a4ceb7602d9702debbcc
+#%53e9b4e4b7602d970400b223
+#%53e9b33eb7602d9703e15d04
+#%53e9b38fb7602d9703e72260
+#%53e9af94b7602d97039df9ab
+#%53e9b35ab7602d9703e364dd
+#%53e9b9cdb7602d97045c29a0
+#%53e9aff5b7602d9703a4e532
+
+#*Computing Transitive Closures of Multilevel Relations.
+#@Bhavani M. Thuraisingham
+#t1990
+#cSIGMOD Record
+#index53e99a04b7602d970224e5f7
+#%53e9b79fb7602d9704345481
+#%53e9b775b7602d970431d13e
+#%53e9b1c2b7602d9703c50d8d
+#%53e99cc2b7602d970257756b
+
+#*Second workshop on very large digital libraries: in conjunction with the european conference on digital libraries Corfu, Greece, 2 october 2009.
+#@Paolo Manghi, Pasquale Pagano, Yannis E. Ioannidis
+#t2009
+#cSIGMOD Record
+#index53e99e45b7602d970270b589
+
+#*Editor's Notes.
+#@Thomas J. Cook
+#t1983
+#cSIGMOD Record
+#index53e99800b7602d970200b620
+
+#*Editor's Notes.
+#@Jennifer Widom
+#t1995
+#cSIGMOD Record
+#index53e99800b7602d970200b618
+
+#*Report on the 5th international workshop on the design and management of data warehouses (DMDW'03).
+#@Hans-Joachim Lenz, Panos Vassiliadis, Manfred A. Jeusfeld, Martin Staudt
+#t2003
+#cSIGMOD Record
+#index53e9a718b7602d970304d814
+
+#*Synergy-based Workload Management.
+#@Martina-Cezara Albutiu, Alfons Kemper
+#t2009
+#cVLDB PhD Workshop
+#index53e99b1bb7602d97023aea97
+#%53e9be14b7602d9704accba4
+
+#*Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.
+#@Takeshi Fukuda, Yasuhiko Morimoto, Shinichi Morishita, Takeshi Tokuyama
+#t1996
+#cVLDB
+#index53e9b5b6b7602d97040fa1e4
+#%53e9b321b7602d9703deedf0
+#%53e99d13b7602d97025c4fb1
+#%53e9bb44b7602d970478494e
+#%53e99808b7602d9702019ecc
+#%53e9a1d0b7602d9702acb679
+#%53e99d2fb7602d97025e7dbd
+#%53e9b84ab7602d970440dcf4
+#%53e99a92b7602d970230a9a8
+#%53e9ab9eb7602d9703549c83
+#%53e9bc5bb7602d97048d6ad5
+#%53e9aa7ab7602d97033f239a
+
+#*Information Discovery, Extraction and Integration for the Hidden Web.
+#@Jiying Wang
+#t2003
+#cVLDB PhD Workshop
+#index53e9a6f5b7602d9703028288
+#%53e99d88b7602d9702645354
+
+
+#*Promises and Realities of Active Database Systems.
+#@Eric Simon, Angelika Kotz Dittrich
+#t1995
+#cVLDB
+#index53e99967b7602d97021a9954
+#%53e9a2fab7602d9702c067fc
+#%53e9a524b7602d9702e44a81
+#%53e9ba32b7602d970463fc8b
+#%53e9b326b7602d9703df5278
+#%53e9aa3ab7602d97033a66e8
+#%53e9bab4b7602d97046e22ed
+
+#*Bridging the Gap between OLAP and SQL.
+#@Jens-Peter Dittrich, Donald Kossmann, Alexander Kreutz
+#t2005
+#cVLDB
+#index53e9b857b7602d970441f1ff
+#%53e9b75bb7602d97042ffc08
+#%53e99beab7602d9702491f3b
+#%53e99a8cb7602d9702303d32
+#%53e9a4e4b7602d9702e03715
+#%53e9ae17b7602d9703825532
+#%53e9bd11b7602d9704996cd3
+#%53e9b4d9b7602d9703ff948d
+#%53e99b04b7602d970239433b
+#%53e9ae63b7602d970387e5fb
+#%53e99a1ab7602d970226fe18
+#%53e9b634b7602d9704191ccd
+#%53e9a689b7602d9702fbaa52
+
+#*Proceedings of the VLDB 2003 PhD Workshop. Co-located with the 29th International Conference on Very Large Data Bases (VLDB 2003). Berlin, September 12-13, 2003
+#t2003
+#cVLDB PhD Workshop
+#index53e99d88b7602d9702645354

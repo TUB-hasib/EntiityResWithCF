@@ -1,0 +1,7 @@
+publicationTitle,Authors,yearOfPublication,publicationVenue,publicationID
+An initial study of overheads of eddies.,['Amol Deshpande'],2004,SIGMOD,53e9a515b7602d9702e350a0
+Editor's Notes.,['Jennifer Widom'],1995,SIGMOD,53e99800b7602d970200b618
+Report on the 5th international workshop on the design and management of data warehouses (DMDW'03).,"['Hans-Joachim Lenz', 'Panos Vassiliadis', 'Manfred A. Jeusfeld', 'Martin Staudt']",2003,SIGMOD,53e9a718b7602d970304d814
+Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.,"['Takeshi Fukuda', 'Yasuhiko Morimoto', 'Shinichi Morishita', 'Takeshi Tokuyama']",1996,VLDB,53e9b5b6b7602d97040fa1e4
+"Information Discovery, Extraction and Integration for the Hidden Web.",['Jiying Wang'],2003,VLDB,53e9a6f5b7602d9703028288
+Promises and Realities of Active Database Systems.,"['Eric Simon', 'Angelika Kotz Dittrich']",1995,VLDB,53e99967b7602d97021a9954

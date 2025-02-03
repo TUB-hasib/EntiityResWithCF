@@ -1,0 +1,2930 @@
+#*INFORMS Journal on Computing
+#t2014
+#cINFORMS Journal on Computing
+#index558ac6e0612c41e6b9d39eed
+
+#*Pushout-complements and basic concepts of grammars in toposes
+#@Yasuo Kawahara
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b8
+
+#*Effective constructors the formal series of trees (French)
+#@Symeon Bozapalidis
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b6
+
+#*The DataPaper: living in the virtual world
+#@Mark Green, Chris Shaw
+#t1990
+#cGraphics Interface 1990
+#index555aa9a345ce207198fe0ae8
+#!Virtual reality user interfaces are a new type of user
+interface based on placing the user in a three dimensional
+environment that can be directly manipulated. Virtual reality
+user interfaces have a wide range of applications in scientific
+computing, remote manipulation, communications, and the
+arts. This paper presents a cost effective hardware and
+software architecture for this type of user interface. Some of
+the hardware devices required to produce this type of user
+interface are discussed, along with the techniques used to
+combine them into a usable system. A low level and high
+level set of software tools are described. The low level tool
+set handles the interaction between the input and output
+devices and the user’s program. The high level tool set
+assists with the development of virtual reality user interfaces.
+An example user interface developed with our tool set is
+described, along with suggestions for further research.
+
+#*Using program slicing in software maintenance
+#@Keith Brian Gallagher
+#t1990
+#cUsing program slicing in software maintenance
+#index5390879920f70186a0d422ab
+
+#*Optimistic processing for distributed database systems in a partitioned network
+#@Ann Tracy Goodman
+#t1990
+#cOptimistic processing for distributed database systems in a partitioned network
+#index5390879920f70186a0d422ca
+
+#*Probabilistic analysis of geometric algorithms
+#@Mordecai J. Golin
+#t1990
+#cProbabilistic analysis of geometric algorithms
+#index5390879920f70186a0d422d1
+
+#*Active bias adjustment for incremental, supervised concept learning
+#@Diana Faye Gordon
+#t1990
+#cActive bias adjustment for incremental, supervised concept learning
+#index5390879920f70186a0d422d3
+
+#*Integration, the VLSI Journal
+#@L. Spaanenburg
+#t1984
+#cIntegration, the VLSI Journal
+#index558e21a40cf222bc17bc0dd2
+
+#*Complete problems, creative sets and isomorphism conjectures
+#@Krishnamurthy Ganesan
+#t1990
+#cComplete problems, creative sets and isomorphism conjectures
+#index5390879920f70186a0d422a9
+
+#*Predicting the present with search engine data
+#@Hal Varian
+#t2013
+#cProceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining
+#index552bd3d045cec781e877d463
+#!Many businesses now have almost real time data available about their operations. This data can be helpful in contemporaneous prediction ("nowcasting") of various economic indicators. We illustrate how one can use Google search data to nowcast economic metrics of interest, and discuss some of the ramifications for research and policy. Our approach combines three Bayesian techniques: Kalman filtering, spike-and-slab regression, and model averaging. We use Kalman filtering to whiten the time series in question by removing the trend and seasonal behavior. Spike-and-slab regression is a Bayesian method for variable selection that works even in cases where the number of predictors is far larger than the number of observations. Finally, we use Markov Chain Monte Carlo methods to sample from the posterior distribution for our model; the final forecast is an average over thousands of draws from the posterior. An advantage of the Bayesian approach is that it allows us to specify informative priors that affect the number and type of predictors in a flexible way.
+
+#*A feature dictionary to support database translation, information retrieval, intelligent medical records, and expert systems
+#@Frank F. Naeymi-Rad
+#t1990
+#cA feature dictionary to support database translation, information retrieval, intelligent medical records, and expert systems
+#index5390879920f70186a0d422cd
+
+#*Service specification and protocol construction for a layered architecture
+#@Sandra Lynn Murphy
+#t1990
+#cService specification and protocol construction for a layered architecture
+#index5390879920f70186a0d422c4
+
+#*Criteria for evaluation and construction of C(2) interpolation methods
+#@Tylene Stratton Garrett
+#t1990
+#cCriteria for evaluation and construction of C(2) interpolation methods
+#index5390879920f70186a0d422bd
+
+#*Ada/ANNA specification analysis
+#@Randall B. Neff
+#t1990
+#cAda/ANNA specification analysis
+#index5390879920f70186a0d422d0
+
+#*Transformations of sequential specifications into concurrent specifications by synchronization guards
+#@Ryszard Janicki, Tomasz Müldner
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422b1
+
+#*Infosystems
+#@Jr.,W L Rhodes
+#t1986
+#cInfosystems
+#index558fed840cf2e9668dc4cec8
+
+#*MIDAS: musical instrument digitizer and synthesizer
+#@James Clifford Gower
+#t1990
+#cMIDAS: musical instrument digitizer and synthesizer
+#index5390879920f70186a0d422d8
+
+#*Ada style tasking model: concurrent language design for adaptive scheduling
+#@Daniel E. Nohl
+#t1990
+#cAda style tasking model: concurrent language design for adaptive scheduling
+#index5390879920f70186a0d422da
+
+#*Positive relativizations for log space computability
+#@Seinosuke Toda
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b5
+
+#*Performance analysis of contention protocols for local area networks
+#@Zhengping Gao
+#t1990
+#cPerformance analysis of contention protocols for local area networks
+#index5390879920f70186a0d422bf
+
+#*Declarative specifications for automatically constructed compilers
+#@Robert William Gray
+#t1990
+#cDeclarative specifications for automatically constructed compilers
+#index5390879920f70186a0d422d9
+
+#*The application of computer-based information systems to urban planning and public policy making
+#@Sang-Yun Han
+#t1990
+#cThe application of computer-based information systems to urban planning and public policy making
+#index5390879920f70186a0d422db
+
+#*The online revolution: education for everyone
+#@Andrew Ng, Daphne Koller
+#t2013
+#cProceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining
+#index5529616845cecbb322b3690e
+#!In 2011, Stanford University offered three online courses, which anyone in the world could enroll in and take for free. Together, these three courses had enrollments of around 350,000 students, making this one of the largest experiments in online education ever performed. Since the beginning of 2012, we have transitioned this effort into a new venture, Coursera, a social entrepreneurship company whose mission is to make high-quality education accessible to everyone by allowing the best universities to offer courses to everyone around the world, for free. Coursera classes provide a real course experience to students, including video content, interactive exercises with meaningful feedback, using both auto-grading and peer-grading, and a rich peer-to-peer interaction around the course materials. Currently, Coursera has 62 university partners, and over 3 million students enrolled in its over 300 courses. These courses span a range of topics including computer science, business, medicine, science, humanities, social sciences, and more. In this talk, I'll report on this far-reaching experiment in education, and why we believe this model can provide both an improved classroom experience for our on-campus students, via a flipped classroom model, as well as a meaningful learning experience for the millions of students around the world who would otherwise never have access to education of this quality.
+
+#*Conference proceedings on Algebraic methodology and software technology
+#@Teodor Rus
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422ad
+
+#*A graph grammar approach to concurrent programming
+#@Steven Kent Goering
+#t1990
+#cA graph grammar approach to concurrent programming
+#index5390879920f70186a0d422cf
+
+#*A new class of explicit two-step fourth order methods for y″ = f(t,y) with extended intervals of periodicity
+#@M M Chawla
+#t1986
+#cJournal of Computational and Applied Mathematics
+#index5390877920f70186a0d2e5e6
+
+#*Abstract language design
+#@Laurette Bradley
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422ae
+
+#*Built-in current testing
+#@Phillip J. Nigh
+#t1990
+#cBuilt-in current testing
+#index5390879920f70186a0d422d2
+
+#*Robot pedagogics: the adaptation, analysis, and computer control of a model manipulator
+#@Edward Telley Hammerand
+#t1990
+#cRobot pedagogics: the adaptation, analysis, and computer control of a model manipulator
+#index5390879920f70186a0d422e4
+
+#*Dempster-Shafer modeling of judgment in geotechnical engineering
+#@David Rees Gillette
+#t1990
+#cDempster-Shafer modeling of judgment in geotechnical engineering
+#index5390879920f70186a0d422c8
+
+#*Coherence and satisfiability of waveform timing specifications
+#@Anthony Joseph Gahlinger
+#t1990
+#cCoherence and satisfiability of waveform timing specifications
+#index5390879920f70186a0d422be
+
+#*A study of improvement in decision-making skills through the use of expert systems
+#@Effy Oz
+#t1990
+#cA study of improvement in decision-making skills through the use of expert systems
+#index5390879920f70186a0d422e8
+
+#*Evaluating Design Alternatives for Feature Recommendations in Configuration Systems
+#@Monika Mandl, Alexander Felfernig, Juha Tiihonen
+#t2011
+#cGraz
+#index557ae0a945cec38f46e8fb5c
+#!Product configuration systems are an important instrument to implement mass customization, which is a production paradigm that supports the manufacturing of highly-variant products under pricing conditions similar to mass production. Previous research indicates that supporting users of product configuration systems with personalized feature recommendations (defaults) can lead to a higher satisfaction with the configuration process. Based on these findings, we investigate the influence of different representation styles of such defaults on users' perception of the configuration system. Additionally, we explore if different representation styles of defaults have an influence on users' selection behavior. For our user study we used RecoMobile, an environment which supports the configuration of mobile phones and corresponding subscription features. We found a strong relationship between the number of accepted default proposals and the perceived user interface quality. Our results further reveal that the different representation styles have a strong impact on users' perceived overall quality of the system.
+
+#*An applicative language framework for hardware synthesis
+#@Dorab R. Patel
+#t1990
+#cAn applicative language framework for hardware synthesis
+#index5390879920f70186a0d422eb
+
+#*Data structures for formal verification of circuit designs
+#@Steven Jeffrey Friedman
+#t1990
+#cData structures for formal verification of circuit designs
+#index5390879920f70186a0d422a7
+
+#*Seven terms, one answer?
+#@J Snyders
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5e9
+
+#*Data types over multiple-valued logics
+#@Don Pigozzi
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422b3
+
+#*Polyview: an object-oriented data model for supporting multiple user views
+#@Jonathan Paul Gilbert
+#t1990
+#cPolyview: an object-oriented data model for supporting multiple user views
+#index5390879920f70186a0d422c7
+
+#*Predicting the present with search engine data
+#@Hal Varian
+#t2013
+#cProceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining
+#index552bd3c145cec781e877d462
+#!Many businesses now have almost real time data available about their operations. This data can be helpful in contemporaneous prediction ("nowcasting") of various economic indicators. We illustrate how one can use Google search data to nowcast economic metrics of interest, and discuss some of the ramifications for research and policy. Our approach combines three Bayesian techniques: Kalman filtering, spike-and-slab regression, and model averaging. We use Kalman filtering to whiten the time series in question by removing the trend and seasonal behavior. Spike-and-slab regression is a Bayesian method for variable selection that works even in cases where the number of predictors is far larger than the number of observations. Finally, we use Markov Chain Monte Carlo methods to sample from the posterior distribution for our model; the final forecast is an average over thousands of draws from the posterior. An advantage of the Bayesian approach is that it allows us to specify informative priors that affect the number and type of predictors in a flexible way.
+
+#*Specification and design methodologies for semihard real-time control systems
+#@Alice H. Muntz
+#t1990
+#cSpecification and design methodologies for semihard real-time control systems
+#index5390879920f70186a0d422c2
+
+#*Category-sorted algebra-based action semantics
+#@S. Even, David A. Schmidt
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422b0
+
+#*Inside risks: the clock grows at midnight
+#@Peter G. Neumann
+#t1991
+#cCommunications of the ACM
+#index5390879920f70186a0d422a5
+#%5390877920f70186a0d2ce74
+
+#*Taking the disaster out of recovery
+#@R M Robbins
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5e8
+
+#*Predicting the present with search engine data
+#@Hal Varian
+#t2013
+#cProceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining
+#index552bcea945cec781e877d45e
+#!Many businesses now have almost real time data available about their operations. This data can be helpful in contemporaneous prediction ("nowcasting") of various economic indicators. We illustrate how one can use Google search data to nowcast economic metrics of interest, and discuss some of the ramifications for research and policy. Our approach combines three Bayesian techniques: Kalman filtering, spike-and-slab regression, and model averaging. We use Kalman filtering to whiten the time series in question by removing the trend and seasonal behavior. Spike-and-slab regression is a Bayesian method for variable selection that works even in cases where the number of predictors is far larger than the number of observations. Finally, we use Markov Chain Monte Carlo methods to sample from the posterior distribution for our model; the final forecast is an average over thousands of draws from the posterior. An advantage of the Bayesian approach is that it allows us to specify informative priors that affect the number and type of predictors in a flexible way.
+
+#*Data processing fraud: six opportunities
+#@C N Bacon
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5e7
+
+#*A statistical evaluation methodology for measuring the diagnostic performance of medical expert systems
+#@Dorthy Christine Georgakis
+#t1990
+#cA statistical evaluation methodology for measuring the diagnostic performance of medical expert systems
+#index5390879920f70186a0d422c5
+
+#*An exponential version of Filon's rule
+#@J A Belward
+#t1986
+#cJournal of Computational and Applied Mathematics
+#index5390877920f70186a0d2e5e5
+
+#*Building flexible real-time systems
+#@Swaminathan Natarajan
+#t1990
+#cBuilding flexible real-time systems
+#index5390879920f70186a0d422cc
+
+#*Effects of Terms Recognition Mistakes on Requests Processing for Interactive Information Retrieval
+#@Mohamed Nazih Omri
+#t2012
+#cIJIRR: International Journal of Information Retrieval Research.
+#index55b76b1545ce392951432171
+#!In this work the author proposes to describe a new model of information retrieval. They studied the effects of using weighted index terms recognition mistakes in a document indexing system and evaluate indexing performance when short and long requests are used. The effect of weighting index terms in the document collection and in the requests is analyzed. Given the typical requests submitted to term indexing system, it seems easy to consider that the effects of term recognition mistakes in user requests must be severely destructive on the effectiveness of the system. The experimental study reported in this paper shows that the use of classical term Indexing technique for processing this kind of request is robust to considerably high levels of term recognition mistakes, in particular for long requests. Moreover, both standard pertinence feedback and pseudo pertinence feedback can be employed to improve the effectiveness of user request processing.
+
+#*Analysis of Petri nets by partitioning: splitting transactions
+#@Hossam M. A. Fahmy
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422bb
+
+#*Motion planning in dynamic domains
+#@Kikuo Fujimura
+#t1990
+#cMotion planning in dynamic domains
+#index5390879920f70186a0d422a8
+
+#*An algebraically specified language for data directed design
+#@Eric G. Wagner
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422b4
+
+#*Forcing and genericity on the polynomial hierarchy
+#@James Arthur Foster
+#t1990
+#cForcing and genericity on the polynomial hierarchy
+#index5390879920f70186a0d422a6
+
+#*An experimental evaluation of using computer-aided design simulations in teaching basic electronics at the college level
+#@Willard Stanley Garren
+#t1990
+#cAn experimental evaluation of using computer-aided design simulations in teaching basic electronics at the college level
+#index5390879920f70186a0d422aa
+
+#*Construction of Voronoi diagrams in the plane by using maps
+#@Mounir Elbaz, Jean-Claude Spehner
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422bc
+
+#*The fixed points of logic programs with Herbrand base N
+#@William F. Dowling, Robert Kline
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422ba
+
+#*Parallel incremental compilation
+#@Neal M. Gafter
+#t1990
+#cParallel incremental compilation
+#index5390879920f70186a0d422c1
+
+#*Spherical algorithms for setup orientation of workpieces with sculptured surfaces
+#@Jacob Gan
+#t1990
+#cSpherical algorithms for setup orientation of workpieces with sculptured surfaces
+#index5390879920f70186a0d422ac
+
+#*Antialiased ray tracing by adaptive progressive refinement
+#@James S. Painter
+#t1990
+#cAntialiased ray tracing by adaptive progressive refinement
+#index5390879920f70186a0d422f1
+
+#*Performance evaluation of database management systems
+#@Youlun Pang
+#t1990
+#cPerformance evaluation of database management systems
+#index5390879920f70186a0d422f3
+
+#*Optimal circuit segmentation for pseudo-exhaustive testing
+#@Oren Patashnik
+#t1990
+#cOptimal circuit segmentation for pseudo-exhaustive testing
+#index5390879920f70186a0d422f0
+
+#*It's time for IS to 'think marketing'
+#@J C Linder
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5ec
+
+#*Designing radiation therapy for cancer: an approach to knowledge-based optimization
+#@Witold Paluszynski
+#t1990
+#cDesigning radiation therapy for cancer: an approach to knowledge-based optimization
+#index5390879920f70186a0d422f2
+
+#*Expert systems and test plan generation
+#@Ioannis Papavasiliou
+#t1990
+#cExpert systems and test plan generation
+#index5390879920f70186a0d422ee
+
+#*Deterministic simulation of shared memory on bounded degree networks
+#@K. Herley
+#t1990
+#cDeterministic simulation of shared memory on bounded degree networks
+#index5390879920f70186a0d422ef
+
+#*Parallelizing programs with recursive data structures
+#@Laurie Jane Hendren
+#t1990
+#cParallelizing programs with recursive data structures
+#index5390879920f70186a0d422ed
+
+#*Far-infrared properties of halide glasses by molecular dynamics
+#@Richard Allen Harrison
+#t1990
+#cFar-infrared properties of halide glasses by molecular dynamics
+#index5390879920f70186a0d422ec
+
+#*A large storage capacity neural network content-addressable memory
+#@Eric Jon Hartman
+#t1990
+#cA large storage capacity neural network content-addressable memory
+#index5390879920f70186a0d422e3
+
+#*Multiprocessor Smalltalk: implementation, performance, and analysis
+#@Joseph I. Pallas
+#t1990
+#cMultiprocessor Smalltalk: implementation, performance, and analysis
+#index5390879920f70186a0d422ea
+
+#*An approach to adapting mobility analysis to digital computer evaluation
+#@Donald Lawrence Goddard
+#t1990
+#cAn approach to adapting mobility analysis to digital computer evaluation
+#index5390879920f70186a0d422d5
+
+#*An efficient diagnosis algorithm for inconsistent constraint sets
+#@A. Felfernig, M. Schubert, C. Zehentner
+#t2012
+#cAI EDAM
+#index557ac89145cec38f46e8f9ad
+#!Constraint sets can become inconsistent in different contexts. For example, during a configuration session the set of customer requirements can become inconsistent with the configuration knowledge base. Another example is the engineering phase of a configuration knowledge base where the underlying constraints can become inconsistent with a set of test cases. In such situations we are in the need of techniques that support the identification of minimal sets of faulty constraints that have to be deleted in order to restore consistency. In this paper we introduce a divide and conquer-based diagnosis algorithm (FastDiag) that identifies minimal sets of faulty constraints in an overconstrained problem. This algorithm is specifically applicable in scenarios where the efficient identification of leading (preferred) diagnoses is crucial. We compare the performance of FastDiag with the conflict-directed calculation of hitting sets and present an in-depth performance analysis that shows the advantages of our approach.
+
+#*Alternative character sets for PC programming in Spanish
+#@Wilter L. Ocampo
+#t1990
+#cAlternative character sets for PC programming in Spanish
+#index5390879920f70186a0d422df
+
+#*A dynamical systems approach to chemical kinetics
+#@Robert J. Olsen
+#t1990
+#cA dynamical systems approach to chemical kinetics
+#index5390879920f70186a0d422e1
+
+#*APPLEMGR: a prototype decision aid for apple pest management
+#@Susan Lynn Handy
+#t1990
+#cAPPLEMGR: a prototype decision aid for apple pest management
+#index5390879920f70186a0d422e9
+
+#*User-developers: the new software resource
+#@R Sheer
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5eb
+
+#*On the numerical solution of the eigenvalue and inverse eigenvalue problem for real, symmetric Toeplitz matrices
+#@Susan Lynn Handy
+#t1990
+#cOn the numerical solution of the eigenvalue and inverse eigenvalue problem for real, symmetric Toeplitz matrices
+#index5390879920f70186a0d422e7
+
+#*Constraint models for an object-oriented database
+#@Eisuke Muroga
+#t1990
+#cConstraint models for an object-oriented database
+#index5390879920f70186a0d422c0
+
+#*gStore: answering SPARQL queries via subgraph matching
+#@Lei Zou, Jinghui Mo, Lei Chen, M. Tamer Özsu, Dongyan Zhao
+#t2011
+#cPVLDB
+#index55a1dcc945ce0aaccb1fdd03
+#!Due to the increasing use of RDF data, efficient processing of SPARQL queries over RDF datasets has become an important issue. However, existing solutions suffer from two limitations: 1) they cannot answer SPARQL queries with wildcards in a scalable manner; and 2) they cannot handle frequent updates in RDF repositories efficiently. Thus, most of them have to reprocess the dataset from scratch. In this paper, we propose a graph-based approach to store and query RDF data. Rather than mapping RDF triples into a relational database as most existing methods do, we store RDF data as a large graph. A SPARQL query is then converted into a corresponding subgraph matching query. In order to speed up query processing, we develop a novel index, together with some effective pruning rules and efficient search algorithms. Our method can answer exact SPARQL queries and queries with wildcards in a uniform manner. We also propose an effective maintenance algorithm to handle online updates over RDF repositories. Extensive experiments confirm the efficiency and effectiveness of our solution.
+
+#*Identification of characteristics that distinguish superior performing middle managers from average performing middle managers within management information systems
+#@Clarence Nixon, Jr.
+#t1990
+#cIdentification of characteristics that distinguish superior performing middle managers from average performing middle managers within management information systems
+#index5390879920f70186a0d422d4
+
+#*An Enhanced Relocation Manager to Speedup Core Allocation in FPGA-based Reconfigurable Systems
+#@M. D. Santambrogio, F. Cancare, R. Cattaneo, S. Bhandariy, D. Sciuto
+#t2012
+#cIPDPS Workshops
+#index5601763e45cecb5899925e35
+#!Self Reconfigurable Systems are completely independent in their management, thus they have the need to internally host reconfiguration management functionalities, such as core allocation, and to store or be able to autonomously obtain configuration bit streams when needed. Within this scenario, the final system also needs to be able to autonomously perform choices relative to its internal management during computation, this requires, in particular, an internal solution for core allocation management, which includes maintaining information on the reconfigurable fabric state and being able to choose where to place new cores upon their arrival. We refer to these two aspects with the terms Empty Space Management and Online Placement Policy and to the global problem with the term Online Core Allocation Management. This paper presents a solution able to combine the online placement of cores with the runtime bit streams relocation to implement a complete solution that can be used in conjunction with the runtime self reconfiguration. The validation phase presents the results obtained in placement management and relocation, compared to the results obtained by the state of art solutions to this problem.
+
+#*Constraint-driven programming in a strongly-typed object-oriented language
+#@Jacob Vadim Gore
+#t1990
+#cConstraint-driven programming in a strongly-typed object-oriented language
+#index5390879920f70186a0d422d6
+
+#*Optimization in learning and data analysis
+#@Stephen J. Wright
+#t2013
+#cProceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining
+#index55295d5745cecbb322b36905
+#!Optimization tools are vital to data analysis and learning. The optimization perspective has provided valuable insights, and optimization formulations have led to practical algorithms with good theoretical properties. In turn, the rich collection of problems in learning and data analysis is providing fresh perspectives on optimization algorithms and is driving new fundamental research in the area. We discuss research on several areas in this domain, including signal reconstruction, manifold learning, and regression/classification, describing in each case recent research in which optimization algorithms have been developed and applied successfully. A particular focus is asynchronous parallel algorithms for optimization and linear algebra, and their applications in data analysis and learning.
+
+#*Cascade adaptive array structures
+#@Timonthy Bernard Hanson
+#t1990
+#cCascade adaptive array structures
+#index5390879920f70186a0d422e6
+
+#*Compatibility problems in the development of algebraic module specifications
+#@Hartmut Ehrig, Werner Fey, Horst Hansen, Michael Löwe, Dean Jacobs, Francesco Parisi-Presicce
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422af
+
+#*Diagnostic system for the dynamic imaging of laser-plasma interaction phenomena
+#@Steven Murrell
+#t1990
+#cDiagnostic system for the dynamic imaging of laser-plasma interaction phenomena
+#index5390879920f70186a0d422c9
+
+#*Forms interface management system—a system aid for managing forms
+#@Arvind Narayan
+#t1990
+#cForms interface management system—a system aid for managing forms
+#index5390879920f70186a0d422ce
+
+#*Factors which influence women's decision to major in computer science in college
+#@Jeanne Marie Goodness
+#t1990
+#cFactors which influence women's decision to major in computer science in college
+#index5390879920f70186a0d422cb
+
+#*The iterative solution of large sparse linear systems using vector computers
+#@Thomas C. Oppe
+#t1990
+#cThe iterative solution of large sparse linear systems using vector computers
+#index5390879920f70186a0d422e5
+
+#*Combustion system of nonoxide ceramic and composite preforms for liquid-metal infiltration
+#@Danny Charles Halverson
+#t1990
+#cCombustion system of nonoxide ceramic and composite preforms for liquid-metal infiltration
+#index5390879920f70186a0d422e2
+
+#*On the inference of approximate programs
+#@Carl H. Smith, Mahendran Velauthapillai
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b7
+
+#*A qualitative study of computer-mediated nursing care plans of perspective of the staff nurse
+#@Barbara Lee Harris
+#t1990
+#cA qualitative study of computer-mediated nursing care plans of perspective of the staff nurse
+#index5390879920f70186a0d422e0
+
+#*Computer speech recognition and expert system methods for entering Chinese characters to computers
+#@Di Han
+#t1990
+#cComputer speech recognition and expert system methods for entering Chinese characters to computers
+#index5390879920f70186a0d422dd
+
+#*Efficient and optimal query answering on independent schemes
+#@Paolo Atzeni, Edward P. F. Chan
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b9
+
+#*Graphoids: a qualitative framework for probabilistic inference
+#@Dan Geiger
+#t1990
+#cGraphoids: a qualitative framework for probabilistic inference
+#index5390879920f70186a0d422c3
+
+#*A performance study of query-by-example systems
+#@Glen Harvey Mullen
+#t1990
+#cA performance study of query-by-example systems
+#index5390879920f70186a0d422c6
+
+#*Automated method for estimating oceanic flow fields from satellite imagery
+#@Shawn O'Keefe
+#t1990
+#cAutomated method for estimating oceanic flow fields from satellite imagery
+#index5390879920f70186a0d422dc
+
+#*Equational type logic
+#@V. Manca, A. Salibra, G. Scollo
+#t1989
+#cConference proceedings on Algebraic methodology and software technology
+#index5390879920f70186a0d422b2
+
+#*The protection racket
+#@R E Johnston
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5ea
+
+#*TREEMACS: an extensible tree editor
+#@David Hugh Hammerslag
+#t1990
+#cTREEMACS: an extensible tree editor
+#index5390879920f70186a0d422de
+
+#*Parallel algorithms for intersection graphs
+#@Mark B. Novick
+#t1990
+#cParallel algorithms for intersection graphs
+#index5390879920f70186a0d422d7
+
+#*Design and analysis of some high-performance heuristic search algorithms
+#@Shie-Rei Huang
+#t1990
+#cDesign and analysis of some high-performance heuristic search algorithms
+#index5390879920f70186a0d4230a
+
+#*A multisurface method for pattern classification
+#@Shalom Spivak
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42316
+
+#*Haas: a computational model for the analysis of heterarchical argumentative discourse
+#@Charles Thomas Taylor, II
+#t1990
+#cHaas: a computational model for the analysis of heterarchical argumentative discourse
+#index5390879920f70186a0d42328
+
+#*On error-control coding for data reliability and security
+#@Chang S. Park
+#t1990
+#cOn error-control coding for data reliability and security
+#index5390879920f70186a0d422f8
+
+#*Magnetic resonance imaging: effects on cardiac pacemakers and quantitation of images in multiple sclerosis
+#@Frank J. Pannizzo
+#t1990
+#cMagnetic resonance imaging: effects on cardiac pacemakers and quantitation of images in multiple sclerosis
+#index5390879920f70186a0d422f5
+
+#*Object process modeling and the process programming language Galois
+#@Yasuhiro Sugiyama
+#t1990
+#cObject process modeling and the process programming language Galois
+#index5390879920f70186a0d42325
+
+#*Solving large sparse quadratic programs with simple bounds
+#@L. A. Hulbert
+#t1990
+#cSolving large sparse quadratic programs with simple bounds
+#index5390879920f70186a0d42308
+
+#*Efficient algorithms for some combinatorial problems (bulk pickup/delivery problem, traveling salesmen problem, Steiner tree problem)
+#@Baoxing Tang
+#t1990
+#cEfficient algorithms for some combinatorial problems (bulk pickup/delivery problem, traveling salesmen problem, Steiner tree problem)
+#index5390879920f70186a0d42327
+
+#*High-accuracy numerical methods for ordinary differential equation with discontinuous right-hand side
+#@David Edward Stewart
+#t1990
+#cHigh-accuracy numerical methods for ordinary differential equation with discontinuous right-hand side
+#index5390879920f70186a0d4231f
+
+#*Elements of an expert system for determining the satisfiability of general Boolean expressions
+#@Craig Stewart Holman
+#t1990
+#cElements of an expert system for determining the satisfiability of general Boolean expressions
+#index5390879920f70186a0d42302
+
+#*Visualization of a plane sweep algorithm for construction of the visibility graph for robot path planning
+#@Vikas B. Patel
+#t1990
+#cVisualization of a plane sweep algorithm for construction of the visibility graph for robot path planning
+#index5390879920f70186a0d42301
+
+#*An algorithm for the location of transition states
+#@Jon Baker
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5ee
+
+#*Cluster detection in background noise
+#@J.-M. Jolion, Azriel Rosenfeld
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42318
+
+#*A finite element implementation of a high-order homogenization theory
+#@Thomas Joseph Impelluso
+#t1990
+#cA finite element implementation of a high-order homogenization theory
+#index5390879920f70186a0d42313
+
+#*Testability analysis and test generation for sequential VLSI circuits
+#@Raghu Vishwanath Hudli
+#t1990
+#cTestability analysis and test generation for sequential VLSI circuits
+#index5390879920f70186a0d4230f
+
+#*Inspection of 2-D objects using pattern matching method
+#@Min-Hong Han, Joseph Foster, Dongsig Jang
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42311
+
+#*Energy-optimized GTO basis sets for LCAO calculations. A gradient approach
+#@Knut Faegri, Jr., Jan Almlof
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5ef
+
+#*An object-oriented method for software system development
+#@Jules Gwo-Long Huang
+#t1990
+#cAn object-oriented method for software system development
+#index5390879920f70186a0d42310
+
+#*On simulating and visualizing nonlinear distributed parameter systems using massively parallel computers
+#@Alex T. Pang
+#t1990
+#cOn simulating and visualizing nonlinear distributed parameter systems using massively parallel computers
+#index5390879920f70186a0d422f7
+
+#*Construction methods for asymmetric codes
+#@Christopher Rocco Teti
+#t1990
+#cConstruction methods for asymmetric codes
+#index5390879920f70186a0d4232b
+
+#*Toward a multiformalism specification environment
+#@Edward A. Ipser
+#t1990
+#cToward a multiformalism specification environment
+#index5390879920f70186a0d42315
+
+#*Improvement of Kittler and Illingworth's minimum error thresholding
+#@Sungzoon Cho, Robert Haralick, Seungku Yi
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42319
+
+#*Obtaining a solid model from optical serial sections
+#@Fernando Macias-Garza, Kenneth R. Diller, Alan C. Bovik, Shanti J. Aggarwal, J. K. Aggarwal
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42314
+
+#*Transverse catenary suspension system: a seismic retrofit for two-tier highway structures.
+#@David Alan Janover
+#t1990
+#cTransverse catenary suspension system: a seismic retrofit for two-tier highway structures.
+#index5390879920f70186a0d4233a
+
+#*Design and analysis of robust algorithms for fault-tolerant computing.
+#@Jai Eun Jang
+#t1990
+#cDesign and analysis of robust algorithms for fault-tolerant computing.
+#index5390879920f70186a0d42339
+
+#*Adaptation and composition of program components
+#@Bok-Gyu Joo
+#t1990
+#cAdaptation and composition of program components
+#index5390879920f70186a0d4233e
+
+#*An interpretive model of line continuation in human visual perception
+#@Yung-Sheng Chen, Wen-Hsing Hsu
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d4231a
+
+#*Simulation problems in parallel networks
+#@Chang-Shyh Peng
+#t1990
+#cSimulation problems in parallel networks
+#index5390879920f70186a0d4230d
+
+#*Sparse matrix methods for the unbalanced multifactor ANOVA
+#@Shu-Yen Ho
+#t1990
+#cSparse matrix methods for the unbalanced multifactor ANOVA
+#index5390879920f70186a0d422fe
+
+#*Substituent effects on the low-lying singlet and triplet states of methylene
+#@Jaume Farrás, Santiago Olivella, Albert Solé, Juame Vilarrasa
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f2
+
+#*Logarithms in certain classes of Galois fields
+#@Avivos A. Papageorgiou
+#t1990
+#cLogarithms in certain classes of Galois fields
+#index5390879920f70186a0d422ff
+
+#*Incremental attribute evaluation and multiple subtree replacements
+#@Stephen B. Peckham
+#t1990
+#cIncremental attribute evaluation and multiple subtree replacements
+#index5390879920f70186a0d4230b
+
+#*The computational complexity of prefix of logical theories
+#@David Benjamin Streid
+#t1990
+#cThe computational complexity of prefix of logical theories
+#index5390879920f70186a0d4231b
+
+#*A study of particle phenomena in computer disk drives
+#@Chuen-Jinn Tsai
+#t1990
+#cA study of particle phenomena in computer disk drives
+#index5390879920f70186a0d42335
+
+#*Automata on infinite objects and modal logics of programs
+#@Charanjit Singh
+#t1990
+#cAutomata on infinite objects and modal logics of programs
+#index5390879920f70186a0d42344
+
+#*Generalized conjugate gradient and Lanczos methods for the solution of nonsymmetric systems of linear equations
+#@Wayne D. Joubert
+#t1990
+#cGeneralized conjugate gradient and Lanczos methods for the solution of nonsymmetric systems of linear equations
+#index5390879920f70186a0d42340
+
+#*Waveform methods for ordinary differential equations
+#@Fen-Lien Juang
+#t1990
+#cWaveform methods for ordinary differential equations
+#index5390879920f70186a0d42343
+
+#*VLSI CAD on a small computer platform
+#@Ronald Dean Jorgenson
+#t1990
+#cVLSI CAD on a small computer platform
+#index5390879920f70186a0d42342
+
+#*Application of no cycle restriction to integer programming
+#@Jyh-Guang Jou
+#t1990
+#cApplication of no cycle restriction to integer programming
+#index5390879920f70186a0d42341
+
+#*On using chromatic information in stereo correspondence
+#@John Raymond Joran, III
+#t1990
+#cOn using chromatic information in stereo correspondence
+#index5390879920f70186a0d4233f
+
+#*Journal of Computational Chemistry
+#@Norman L Allinger, Paul von R Schleyer
+#t1986
+#cJournal of Computational Chemistry
+#index558f6f430cf2cb5aa7673fb2
+
+#*Transport properties of macromolecules by Brownian dynamics simulation: vectorization of Brownian dynamics on the Cyber-205
+#@Girija Ganti, J Andrew McCammon
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f4
+
+#*Polygon visibility algorithms for weak visibility and link distance problems
+#@Yan Ke
+#t1990
+#cPolygon visibility algorithms for weak visibility and link distance problems
+#index5390879920f70186a0d4234e
+
+#*Domain-specific programming: an object-oriented and knowledge-based approach to specification and generation
+#@Neil Allen Iscoe
+#t1990
+#cDomain-specific programming: an object-oriented and knowledge-based approach to specification and generation
+#index5390879920f70186a0d42337
+
+#*The winter architecture: support for a purely declarative programming language
+#@Damir Anthony Jamsek
+#t1990
+#cThe winter architecture: support for a purely declarative programming language
+#index5390879920f70186a0d42338
+
+#*The use of Lanczos' method to solve the generalized eigenproblem
+#@Mark Thomas Jones
+#t1990
+#cThe use of Lanczos' method to solve the generalized eigenproblem
+#index5390879920f70186a0d4233d
+
+#*Investigation of intelligent systems for injection molding of plastics
+#@Wen-Ren Jong
+#t1990
+#cInvestigation of intelligent systems for injection molding of plastics
+#index5390879920f70186a0d4233c
+
+#*Optimum design of air pollution monitoring networks: a mathematical programming approach
+#@Arturo Trujillo-Ventura
+#t1990
+#cOptimum design of air pollution monitoring networks: a mathematical programming approach
+#index5390879920f70186a0d42331
+
+#*Convex decomposition and solid geometric modeling
+#@Yong Se Kim
+#t1990
+#cConvex decomposition and solid geometric modeling
+#index5390879920f70186a0d42352
+
+#*Modeling of assembly operations for robot compliance control
+#@Myong G. Kim
+#t1990
+#cModeling of assembly operations for robot compliance control
+#index5390879920f70186a0d42354
+
+#*Computer network performance analysis and stochastic parameter estimation
+#@Yung Bok Kim
+#t1990
+#cComputer network performance analysis and stochastic parameter estimation
+#index5390879920f70186a0d42353
+
+#*Representing hypertext with a relational data model
+#@Michael A. Kinsley
+#t1990
+#cRepresenting hypertext with a relational data model
+#index5390879920f70186a0d42356
+
+#*The development of a metric for assessing the information complexity of time-series business graphs
+#@Edd Ray Joyner
+#t1990
+#cThe development of a metric for assessing the information complexity of time-series business graphs
+#index5390879920f70186a0d4233b
+
+#*Tutorial on office automation support and information systems
+#@Mark Dale Storms
+#t1990
+#cTutorial on office automation support and information systems
+#index5390879920f70186a0d42321
+
+#*Conflict resolution in cooperative design
+#@Mark Klein
+#t1990
+#cConflict resolution in cooperative design
+#index5390879920f70186a0d42357
+
+#*Artificial neural network models for knowledge representation in chemical engineering
+#@Josiah C. Hoskins
+#t1990
+#cArtificial neural network models for knowledge representation in chemical engineering
+#index5390879920f70186a0d42300
+
+#*Touchscreen system design
+#@Mitchell Maw-Shi Tang
+#t1990
+#cTouchscreen system design
+#index5390879920f70186a0d4232a
+
+#*Intelligent medical expert system: addressing philosophical and logistical deficiencies of the rule-based medical expert system
+#@Christopher Alan Hughes
+#t1990
+#cIntelligent medical expert system: addressing philosophical and logistical deficiencies of the rule-based medical expert system
+#index5390879920f70186a0d42306
+
+#*An approach toward a generalized command language
+#@Hermann C. Tai
+#t1990
+#cAn approach toward a generalized command language
+#index5390879920f70186a0d42329
+
+#*Management of nonhomogeneous functional modular redundancy for fault tolerant programmable electro-mechanical systems
+#@George Toye
+#t1990
+#cManagement of nonhomogeneous functional modular redundancy for fault tolerant programmable electro-mechanical systems
+#index5390879920f70186a0d4232d
+
+#*Paperless planning in printed circuit board manufacturing
+#@James William Hickam
+#t1990
+#cPaperless planning in printed circuit board manufacturing
+#index5390879920f70186a0d422f9
+
+#*Improving the performance of wastewater treatment plants: an expert systems approach
+#@Catherine D. Perman
+#t1990
+#cImproving the performance of wastewater treatment plants: an expert systems approach
+#index5390879920f70186a0d42305
+
+#*Systems of combinatory logic related to Quine's “New Foundations”
+#@Melvin Randall Holmes
+#t1990
+#cSystems of combinatory logic related to Quine's “New Foundations”
+#index5390879920f70186a0d422fb
+
+#*Modeling, assignment and scheduling of tasks in distributed real-time systems
+#@Dar-Tzen Peng
+#t1990
+#cModeling, assignment and scheduling of tasks in distributed real-time systems
+#index5390879920f70186a0d42307
+
+#*Using model structure to enhance MMS capability and assist decision-makers in formulating optimization problems
+#@Chin Kuo
+#t1990
+#cUsing model structure to enhance MMS capability and assist decision-makers in formulating optimization problems
+#index5390879920f70186a0d42360
+
+#*Rollback recovery schemes for distributed systems
+#@Zhijun Tong
+#t1990
+#cRollback recovery schemes for distributed systems
+#index5390879920f70186a0d4232e
+
+#*Space nuclear reactor system diagnosis: knowledge-based approach
+#@Yuan Ti Ting
+#t1990
+#cSpace nuclear reactor system diagnosis: knowledge-based approach
+#index5390879920f70186a0d4232c
+
+#*A cooperative distributed problem-solving framework
+#@Srikanth Sundararajan
+#t1990
+#cA cooperative distributed problem-solving framework
+#index5390879920f70186a0d42324
+
+#*The Navlab system for mobile robot navigation
+#@Anthony Joseph Stentz
+#t1990
+#cThe Navlab system for mobile robot navigation
+#index5390879920f70186a0d42320
+
+#*Reactive-process programming and distributed discrete-event simulation
+#@Wen-King Su
+#t1990
+#cReactive-process programming and distributed discrete-event simulation
+#index5390879920f70186a0d42322
+
+#*Trapeds address tracing its application to multicomputer cache performance analysis
+#@Craig Brian Stunkel
+#t1990
+#cTrapeds address tracing its application to multicomputer cache performance analysis
+#index5390879920f70186a0d4231e
+
+#*Linguistic and pragmatic constraints on utterance interpretation
+#@Elizabeth Ann Hinkelman
+#t1990
+#cLinguistic and pragmatic constraints on utterance interpretation
+#index5390879920f70186a0d422f6
+
+#*Verification of rules in rule-based systems: a tree-based approach
+#@Yung-Ho Suh
+#t1990
+#cVerification of rules in rule-based systems: a tree-based approach
+#index5390879920f70186a0d42323
+
+#*Theoretical investigations on fluorine-substituted ethylene dications C2HnF4-n2+(n = 0 - 4)
+#@Gernot Frenking, Wolfram Koch, Helmut Schwarz
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f0
+
+#*User interface software structures
+#@Thomas G. Lane
+#t1990
+#cUser interface software structures
+#index5390879920f70186a0d42367
+
+#*Measuring change in sensitivity to ethical issues in computer use
+#@Sue Lynn Leibowitz
+#t1990
+#cMeasuring change in sensitivity to ethical issues in computer use
+#index5390879920f70186a0d42369
+
+#*Modeling simulation for semiconductor manufacturing
+#@Steven David Leeke
+#t1990
+#cModeling simulation for semiconductor manufacturing
+#index5390879920f70186a0d4236b
+
+#*IDL—a statistical programming environment
+#@Jan O. Pedersen
+#t1990
+#cIDL—a statistical programming environment
+#index5390879920f70186a0d42303
+
+#*An analysis of a parallel genetic algorithm
+#@Chrisila C. B. Pettey
+#t1990
+#cAn analysis of a parallel genetic algorithm
+#index5390879920f70186a0d42309
+
+#*Fault tolerance and reconfiguration strategies for tree architectures
+#@Chen-Ken Ko
+#t1990
+#cFault tolerance and reconfiguration strategies for tree architectures
+#index5390879920f70186a0d4235d
+
+#*A study of the impact of enrollment in a computer science class on mathematics scores and attendance in a secondary school
+#@Tony T.-T. Lei
+#t1990
+#cA study of the impact of enrollment in a computer science class on mathematics scores and attendance in a secondary school
+#index5390879920f70186a0d42371
+
+#*A spectral-textural classifier for digital imagery
+#@Jong-Hun Lee
+#t1990
+#cA spectral-textural classifier for digital imagery
+#index5390879920f70186a0d42370
+
+#*Parameter estimation using competitively inhibited neural networks
+#@Michael D. Lemmon
+#t1990
+#cParameter estimation using competitively inhibited neural networks
+#index5390879920f70186a0d42374
+
+#*Increasing combat capability through enhancing the responsiveness of wartime ammunition logistics: measurement methodology, case studies, and policy implications
+#@Brian E. Leverich
+#t1990
+#cIncreasing combat capability through enhancing the responsiveness of wartime ammunition logistics: measurement methodology, case studies, and policy implications
+#index5390879920f70186a0d42372
+
+#*Coding for unidirectional channels
+#@Agathoklis P. Petrides
+#t1990
+#cCoding for unidirectional channels
+#index5390879920f70186a0d4230e
+
+#*Probabilistic multiprocessor and multicomputer diagnosis
+#@Sunggu Lee
+#t1990
+#cProbabilistic multiprocessor and multicomputer diagnosis
+#index5390879920f70186a0d4236f
+
+#*Very-high speed network based on the unidirectional twin-bus architecture
+#@Yean-Shiang Leu
+#t1990
+#cVery-high speed network based on the unidirectional twin-bus architecture
+#index5390879920f70186a0d42375
+
+#*An efficient method for using molecular symmetry. In advance of zero integrals
+#@C Kozumutza, Zs. Ozoróczy
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f8
+
+#*A case study of a personal computer training program for disabled adults in a community college
+#@Kathleen Holland Klinger
+#t1990
+#cA case study of a personal computer training program for disabled adults in a community college
+#index5390879920f70186a0d42358
+
+#*Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#@Harriet Ortiz
+#t1990
+#cSTOC'90 22nd Annual ACM Symposium on Theory of Computing
+#index5390879920f70186a0d4237b
+
+#*Drill-Pat: an expert system to design an optimum drilling pattern
+#@Elahe Tabesh
+#t1990
+#cDrill-Pat: an expert system to design an optimum drilling pattern
+#index5390879920f70186a0d42326
+
+#*Graph-based real-time fault diagnosis
+#@Samir J. Padalkar
+#t1990
+#cGraph-based real-time fault diagnosis
+#index5390879920f70186a0d422f4
+
+#*Knotting the line: the courtship of IS and the phone companies
+#@J A Chester
+#t1986
+#cInfosystems
+#index5390877920f70186a0d2e5ed
+
+#*Performance analysis of slotted aloha in multipath fading channels
+#@Santiago Vicente Hung Leo
+#t1990
+#cPerformance analysis of slotted aloha in multipath fading channels
+#index5390879920f70186a0d42304
+
+#*A real-time computational substrate for embedded intelligent systems
+#@Dale E. Parson
+#t1990
+#cA real-time computational substrate for embedded intelligent systems
+#index5390879920f70186a0d422fa
+
+#*International group decision support system and intercultural interface
+#@Hung K. Park
+#t1990
+#cInternational group decision support system and intercultural interface
+#index5390879920f70186a0d422fc
+
+#*A decision support system for the governance of higher educational institutions
+#@Timothy Frederick Hurley
+#t1990
+#cA decision support system for the governance of higher educational institutions
+#index5390879920f70186a0d4230c
+
+#*A framework and environment supporting software component reuse for teams of developers
+#@Michael Philip Stovsky
+#t1990
+#cA framework and environment supporting software component reuse for teams of developers
+#index5390879920f70186a0d4231c
+
+#*Knowledge-based image segmentation
+#@Chih-Chen Hung
+#t1990
+#cKnowledge-based image segmentation
+#index5390879920f70186a0d42312
+
+#*Character recognition by stochastic sectionalgram approach
+#@Tsing-Yee Tu, Yung-Lung Ma
+#t1989
+#cPattern Recognition
+#index5390879920f70186a0d42317
+
+#*Nonoverlapping composite meshes for multi-element airfoils
+#@Mark E. M. Stewart
+#t1990
+#cNonoverlapping composite meshes for multi-element airfoils
+#index5390879920f70186a0d4231d
+
+#*Computer-aided support for plausibility-driven designs
+#@Sukesh J. Patel
+#t1990
+#cComputer-aided support for plausibility-driven designs
+#index5390879920f70186a0d422fd
+
+#*Lower bounds for the union-find and the split-find problem on pointer machines
+#@J. A. La Poutré
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42380
+#%5390877920f70186a0d2cdc1
+#%5390877f20f70186a0d30e07
+#%5390878a20f70186a0d384d2
+#%5390879220f70186a0d3c3c0
+#%539087e120f70186a0d66016
+#%539087f820f70186a0d72d26
+#%539087f920f70186a0d73335
+
+#*The information theory bound is tight for selection in a heap
+#@G. N. Frederickson
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4237f
+#%5390877f20f70186a0d31044
+#%5390879220f70186a0d3c434
+#%539087e120f70186a0d66016
+#%53908a9620f70186a0da4a86
+
+#*Unique binary search tree representations and equality-testing of sets and sequences
+#@R. Sundar, R. E. Tarjan
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4237e
+#%5390879920f70186a0d4237d
+#%5390877920f70186a0d2cbc7
+#%5390877920f70186a0d2d13c
+#%5390878e20f70186a0d3a29e
+#%5390878e20f70186a0d3a58e
+#%5390879220f70186a0d3cbf9
+#%539087eb20f70186a0d6a53d
+#%5390882420f70186a0d88edf
+#%53908f5b20f70186a0dd8d21
+#%5390924920f70186a0de35bc
+
+#*Confirmational properties of 3-phenylpiperidine and 3-phenylpyrrolidine opioid analgesics
+#@Mark Froimowitz
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5fa
+
+#*Relating Kripke models and realizability
+#@James B. Lipton
+#t1990
+#cRelating Kripke models and realizability
+#index5390879920f70186a0d42379
+
+#*How to distribute a dictionary in a complete network
+#@M. Dietzfelbinger, F. Meyer auf der Heide
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42388
+#%5390877920f70186a0d2cd17
+#%5390877920f70186a0d2cd13
+#%5390877920f70186a0d2cda8
+#%5390877920f70186a0d2ed56
+#%5390878720f70186a0d351e7
+#%5390878e20f70186a0d3a6c9
+#%5390879220f70186a0d3c37e
+#%5390879620f70186a0d4009d
+#%53908a9720f70186a0da6c45
+
+#*Coherent functions and program checkers
+#@A. C.-C. Yao
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42385
+#%5390877920f70186a0d2d13f
+#%5390877920f70186a0d2d9e0
+#%5390879220f70186a0d3ba5a
+#%5390879220f70186a0d3c353
+#%5390879220f70186a0d3c3c2
+#%5390879220f70186a0d3c3a7
+#%5390879620f70186a0d40063
+
+#*Analyzing and visualizing performance of memory hierarchies
+#@David Callahan, Ken Kennedy, Allan Porterfield
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d4238c
+
+#*Monitoring and measuring distributed systems
+#@Dieter Wybranietz, Dieter Haban
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d4238f
+
+#*Scientific visualization at Los Alamos
+#@Melvin L. Prueitt
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d42391
+
+#*Deterministic sampling—a new technique for fast pattern matching
+#@U. Vishkin
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4238e
+#%5390877920f70186a0d2e25b
+#%5390877920f70186a0d2e25e
+#%5390877920f70186a0d2ed5b
+#%5390878720f70186a0d35e6d
+#%5390879220f70186a0d3b8cf
+#%5390879220f70186a0d3c3bc
+#%5390879920f70186a0d40dd0
+#%539087c720f70186a0d578f2
+#%539087f920f70186a0d7347a
+#%5390880d20f70186a0d7ae43
+#%5390972920f70186a0dfb9dd
+
+#*Towards overcoming the transitive-closure bottleneck: efficient parallel algorithms for planar digraphs
+#@M.-Y. Kao, P. N. Klein
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42390
+#%5390877920f70186a0d2e2d9
+#%5390877f20f70186a0d2f68e
+#%5390877f20f70186a0d30fd8
+#%5390878320f70186a0d326bb
+#%5390878320f70186a0d326de
+#%5390878720f70186a0d35e64
+#%5390878a20f70186a0d36fb4
+#%5390878a20f70186a0d37fd7
+#%5390878e20f70186a0d39a5a
+#%5390878e20f70186a0d39a50
+#%5390879220f70186a0d3c382
+#%5390879220f70186a0d3c3ba
+#%5390879220f70186a0d3c3bb
+#%539087f920f70186a0d7347a
+#%539088b920f70186a0d9150f
+#%53908a9720f70186a0da6d7a
+#%53908b2a20f70186a0db8509
+#%53908b2a20f70186a0db850d
+#%53908b2a20f70186a0db8595
+#%53908b2a20f70186a0db8586
+#%539098dc20f70186a0e0dc3d
+
+#*Atomic charges in the quadruple solvation energy calculations
+#@Ljiljana Dǒsen-Micovic
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5fb
+
+#*On the dynamic finger conjecture for splay trees
+#@R. Cole
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4237d
+#%5390877920f70186a0d2d13c
+#%5390877920f70186a0d2ed53
+#%5390877f20f70186a0d3083f
+#%53908f5b20f70186a0dd8d21
+
+#*Optimization of the generalized valence bond for vector processors
+#@Raymond A Bair
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f9
+
+#*BLASTING through the information theoretic barrier with FUSION TREES
+#@M. L. Fredman, D. E. Willard
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4237c
+#%5390877920f70186a0d2cbc7
+#%5390877920f70186a0d2e268
+
+#*MINDO/3 study of the rearrangement of 1-methylcyclohexyl cation to 1,2-dimethylcyclopentyl cation
+#@P M Viruela-Martín, I Nebot-Gil, F Tomás, R Viruela-Martín
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f1
+
+#*VLSI accelerator architectures for database systems
+#@Kuo-Chu Lee
+#t1990
+#cVLSI accelerator architectures for database systems
+#index5390879920f70186a0d4236e
+
+#*Parallel computer systems: performance instrumentation and visualization
+#@Rebecca Koskela, Margaret Simmons
+#t1990
+#cParallel computer systems: performance instrumentation and visualization
+#index5390879920f70186a0d4237a
+
+#*Intelligent search in expert database systems
+#@Sanggoo Lee
+#t1990
+#cIntelligent search in expert database systems
+#index5390879920f70186a0d42378
+
+#*An unsupervised hierarchical clustering image segmentation and an adaptive image reconstruction system for remote sensing
+#@Sanghooh Lee
+#t1990
+#cAn unsupervised hierarchical clustering image segmentation and an adaptive image reconstruction system for remote sensing
+#index5390879920f70186a0d42376
+
+#*Reliability modeling of fault-tolerant software
+#@Shao-Wei Leu
+#t1990
+#cReliability modeling of fault-tolerant software
+#index5390879920f70186a0d42377
+
+#*Compensating for perturbation by software performance monitors in asynchronous computations
+#@Theodore F. Hehr
+#t1990
+#cCompensating for perturbation by software performance monitors in asynchronous computations
+#index5390879920f70186a0d42373
+
+#*Conformational dynamics of 9,9-dimethyl-1,5-dihetero-spiro U5,5e undecanes by molecular mechanics calculations: a three-dimensional topological approach
+#@P Iratcabal, D Liotard
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f7
+
+#*Technological innovation and diffusion in medical software: a case study of MUMPS
+#@Frederick Gregg Kohun
+#t1990
+#cTechnological innovation and diffusion in medical software: a case study of MUMPS
+#index5390879920f70186a0d4235c
+
+#*Instantaneous kinematics, motion planning and mechanical efficiency of a quadrupedal walking machine
+#@Jong-Kil Lee
+#t1990
+#cInstantaneous kinematics, motion planning and mechanical efficiency of a quadrupedal walking machine
+#index5390879920f70186a0d4236d
+
+#*Integrating performance data collection, analysis, and visualization
+#@Allen D. Malony, Daniel A. Reed, David C. Rudolph
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d42396
+
+#*Fault tolerance in hypercubes
+#@Shiang-Jen Lee
+#t1990
+#cFault tolerance in hypercubes
+#index5390879920f70186a0d4236c
+
+#*The development of computer-aided composition software and its implications for composition
+#@Paul Joseph LeBlanc
+#t1990
+#cThe development of computer-aided composition software and its implications for composition
+#index5390879920f70186a0d4236a
+
+#*Approximate inclusion-exclusion
+#@N. Linial, N. Nisan
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4239d
+
+#*Efficient generation of test patterns using Boolean satisfiability
+#@Tracy Larrabee
+#t1990
+#cEfficient generation of test patterns using Boolean satisfiability
+#index5390879920f70186a0d42366
+
+#*Pseudorandom generators for space-bounded computations
+#@N. Nisan
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42395
+#%5390877920f70186a0d2cd7f
+#%5390877f20f70186a0d3096c
+#%5390878320f70186a0d326cc
+#%5390878320f70186a0d326c9
+#%5390878e20f70186a0d39e4f
+#%5390879220f70186a0d3c3a1
+#%5390879220f70186a0d3c3a0
+
+#*Object classes and image contours in model-based vision
+#@David Jay Kriegman
+#t1990
+#cObject classes and image contours in model-based vision
+#index5390879920f70186a0d4235e
+
+#*Environments for visualization of program
+#@Doug Kimelman
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423a5
+
+#*Monotone circuits for matching require linear depth
+#@R. Raz, A. Wigderson
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a0
+#%5390878320f70186a0d32d06
+#%5390878320f70186a0d332ec
+#%5390878320f70186a0d33f99
+#%5390878e20f70186a0d39e54
+#%53908bad20f70186a0dc21a4
+
+#*A workbench for developing logic programs by stepwise enhancement
+#@Arun Lakhotia
+#t1990
+#cA workbench for developing logic programs by stepwise enhancement
+#index5390879920f70186a0d42365
+
+#*Mediator: an expert system approach to facilitate environmental dispute resolution
+#@Yichin Lee
+#t1990
+#cMediator: an expert system approach to facilitate environmental dispute resolution
+#index5390879920f70186a0d42368
+
+#*A transputer-based fault-tolerant robot controller
+#@Shubhada R. Kulkarni
+#t1990
+#cA transputer-based fault-tolerant robot controller
+#index5390879920f70186a0d42362
+
+#*Quantitative Steinitz's theorems with applications to multifingered grasping
+#@D. G. Kirkpatrick, B. Mishra, C. K. Yap
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a8
+#%5390877920f70186a0d2d019
+#%5390879920f70186a0d4101a
+#%539087f920f70186a0d73526
+
+#*On the use of constraints in molecular mechanics. Rigid group refinement
+#@Jan L M Dillen
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f6
+
+#*Solving query-retrieval problems by compacting Voronoi diagrams
+#@A. Aggarwal, M. Hansen, T. Leighton
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a7
+#%5390877920f70186a0d2d10c
+#%5390877920f70186a0d2d59c
+#%5390877920f70186a0d2dca8
+#%5390877920f70186a0d2e501
+#%5390877920f70186a0d2ee9d
+#%5390877f20f70186a0d2f3fe
+#%5390877f20f70186a0d2f3fd
+#%5390877f20f70186a0d2f687
+#%5390877f20f70186a0d31636
+#%5390878320f70186a0d326bf
+#%5390878320f70186a0d328a9
+#%5390878720f70186a0d352d6
+#%5390878720f70186a0d35e62
+#%5390878e20f70186a0d39e48
+#%5390879520f70186a0d3e4aa
+#%539087fe20f70186a0d73804
+#%53908bad20f70186a0dc31f1
+#%53908bad20f70186a0dc31a1
+
+#*Software tools for visualization of performance
+#@Bill Appelbe
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423aa
+
+#*Silicon models of early audition
+#@John Lazzaro
+#t1990
+#cSilicon models of early audition
+#index5390879920f70186a0d42364
+
+#*A multi-modal logic for expert classification system
+#@Paul Leroy Krueger
+#t1990
+#cA multi-modal logic for expert classification system
+#index5390879920f70186a0d4235f
+
+#*The deliberative integration of planning, execution, and learning
+#@Daniel R. Kuokka
+#t1990
+#cThe deliberative integration of planning, execution, and learning
+#index5390879920f70186a0d42361
+
+#*Placement of processes and files in distributed systems
+#@Kriton Kyrimis
+#t1990
+#cPlacement of processes and files in distributed systems
+#index5390879920f70186a0d42363
+
+#*Reflective memory instrumentation issues
+#@Blaine Gaither, Jeff Hardy
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423ae
+
+#*An evaluation of an interactive computer exhibit in a museum setting
+#@Mary-Lynn Klevans
+#t1990
+#cAn evaluation of an interactive computer exhibit in a museum setting
+#index5390879920f70186a0d42359
+
+#*A structured policy analysis system: computer-based group decision-making in evaluating alternatives
+#@Dongsung Kong
+#t1990
+#cA structured policy analysis system: computer-based group decision-making in evaluating alternatives
+#index5390879920f70186a0d4235b
+
+#*An SCF and CI study of the 1,3 shift in the HX—CH=Y=X=CH—YH isoelectric series: X,Y = CH2, NH, and O
+#@Raymond A Poirier, Dariush Majlessi, Theresa J Zielinski
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f5
+
+#*The analysis, design, and implementation of the TASP information system
+#@Jeffrey Allen Kleber
+#t1990
+#cThe analysis, design, and implementation of the TASP information system
+#index5390879920f70186a0d4235a
+
+#*Support environment for RP3 performance monitor
+#@William C. Brantley, Henry Y. Chang
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423a3
+
+#*Integrity maintenance in indefinite databases
+#@Ung Mo Kim
+#t1990
+#cIntegrity maintenance in indefinite databases
+#index5390879920f70186a0d42355
+
+#*An optimal algorithm for on-line bipartite matching
+#@R. M. Karp, U. V. Vazirani, V. V. Vazirani
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a9
+#%5390879920f70186a0d423af
+#%5390877920f70186a0d2cf01
+#%5390878e20f70186a0d39e3e
+
+#*On the enumeration of 2-factors of polyhexes
+#@J V Knop, W R Müller, K Szymanski, N Trinajstic
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5fe
+
+#*Performance: the need for an in-depth view
+#@H. F. Jordan
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423b8
+
+#*On polynomial time bounded truth-table reducibility of NP sets to sparse sets
+#@M. Ogiwara, O. Watanabe
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b7
+#%5390877920f70186a0d2d6bc
+#%5390878a20f70186a0d36f7e
+#%5390878e20f70186a0d3a815
+#%53908a9720f70186a0da6cc8
+#%53908bad20f70186a0dc22ab
+#%53908e0020f70186a0dd656a
+
+#*The generation and use of categorical model base structures to support adaptive planning and positioning
+#@Yateesh Katyal
+#t1990
+#cThe generation and use of categorical model base structures to support adaptive planning and positioning
+#index5390879920f70186a0d4234b
+
+#*On the complexity of local search
+#@C. H. Papadimitriou, A. A. Schäffer, M. Yannakakis
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b5
+#%5390877920f70186a0d2e438
+#%5390877f20f70186a0d3102d
+#%5390878320f70186a0d3300b
+#%5390878720f70186a0d36254
+#%5390878a20f70186a0d37a03
+#%5390879520f70186a0d3e38d
+#%5390879d20f70186a0d42e31
+#%539087f820f70186a0d72d2a
+#%539088b920f70186a0d9141d
+#%53908ac620f70186a0da9e9a
+#%53908bad20f70186a0dc31b0
+
+#*A knowledge-based expert system for real estate purchases
+#@Geoffrey Marshall
+#t1990
+#cA knowledge-based expert system for real estate purchases
+#index5390879920f70186a0d42351
+
+#*Multicriteria group consensus modeling
+#@Kimberly Lee Kendall
+#t1990
+#cMulticriteria group consensus modeling
+#index5390879920f70186a0d42350
+
+#*Treatment protocols for a medical expert system: solving problems in text delivery and knowledge engineering
+#@Chien-Min Anni Tsai
+#t1990
+#cTreatment protocols for a medical expert system: solving problems in text delivery and knowledge engineering
+#index5390879920f70186a0d42333
+
+#*On the power of randomization in online algorithms
+#@S. Ben-David, A. Borodin, R. Karp, G. Tardos, A. Wigderson
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423af
+
+#*Atomic physicochemical parameters for three-dimensional structure-directed quantitative structure-activity relationships. I. Partition coefficients as a measure
+#@Arup K Ghose, Gordon M Crippen
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5ff
+
+#*One-way functions are necessary and sufficient for secure signatures
+#@J. Rompel
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b0
+#%5390877920f70186a0d2cd7f
+#%5390877f20f70186a0d31054
+#%5390878720f70186a0d362f2
+#%5390878e20f70186a0d39e23
+#%5390879220f70186a0d3c3a3
+#%5390879220f70186a0d3c3a1
+
+#*Performance analysis of parallel applications and systems summary
+#@Frederica Darema, Shreekant Thakker
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423c3
+
+#*Standards working group summary
+#@Allen D. Malony, Kathleen Nichols
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423bf
+
+#*The (true) complexity of statistical zero knowledge
+#@M. Bellare, S. Micali, R. Ostrovsky
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c0
+#%5390878320f70186a0d326d1
+#%5390878720f70186a0d362ed
+#%5390878720f70186a0d362f2
+#%5390878e20f70186a0d3a2a6
+#%5390879920f70186a0d423be
+#%5390879920f70186a0d423b3
+#%53908a9720f70186a0da6d75
+#%53908aac20f70186a0da786c
+#%53908adf20f70186a0dac7e1
+#%5390a06e20f70186a0e4db83
+#%5390a06e20f70186a0e4db4b
+#%5390a06e20f70186a0e4db81
+#%5390a06e20f70186a0e4db80
+#%5390a06e20f70186a0e4db4a
+#%5390a06e20f70186a0e4db48
+
+#*Computing in quotient groups
+#@W. M. Kantor, E. M. Luks
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c5
+#%5390878320f70186a0d326e5
+#%5390878320f70186a0d32d0e
+#%5390878a20f70186a0d36e95
+#%5390878a20f70186a0d3725d
+#%5390879220f70186a0d3c950
+#%5390879220f70186a0d3d518
+#%5390879920f70186a0d41541
+#%53908b1820f70186a0db4cd2
+#%53908bad20f70186a0dc31e7
+#%53908bad20f70186a0dc31e8
+
+#*Efficient computation on oblivious RAMs
+#@R. Ostrovsky
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c4
+#%5390877920f70186a0d2d9e0
+#%5390878320f70186a0d326cf
+#%5390879220f70186a0d3c3a1
+#%5390879920f70186a0d423b1
+#%539087f920f70186a0d73422
+#%539088b920f70186a0d9150f
+#%53908bad20f70186a0dc31d4
+#%53908e0020f70186a0dd6592
+
+#*Searching for primitive roots in finite fields
+#@V. Shoup
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c8
+#%5390877920f70186a0d2ed6a
+#%5390877f20f70186a0d3103a
+#%5390878720f70186a0d34d96
+#%5390878a20f70186a0d37736
+#%5390879520f70186a0d3dc13
+
+#*A new method for molecular mechanics
+#@Martin Saunders, Ronald M Jarret
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e600
+
+#*The round complexity of secure protocols
+#@D. Beaver, S. Micali, P. Rogaway
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c2
+#%5390877920f70186a0d2cd7f
+#%5390878320f70186a0d326d3
+#%5390878720f70186a0d35646
+#%5390878e20f70186a0d39e21
+#%5390878e20f70186a0d39e2c
+#%5390878e20f70186a0d39e20
+#%5390879220f70186a0d3c393
+#%5390879220f70186a0d3c3a6
+#%5390879220f70186a0d3c3a1
+#%5390879920f70186a0d423b1
+#%539087ae20f70186a0d4c7f3
+#%53908adf20f70186a0dac75d
+#%53908adf20f70186a0dac753
+#%53908adf20f70186a0dac74e
+#%53908adf20f70186a0dac882
+#%53908adf20f70186a0dac896
+#%5390924920f70186a0de3592
+#%5390924920f70186a0de42fe
+
+#*An open intelligent information systems architecture
+#@Rajeev Kaula
+#t1990
+#cAn open intelligent information systems architecture
+#index5390879920f70186a0d4234a
+
+#*Intelligent space laboratory organizational design using system entity structure concepts
+#@Michael Robert Kelly
+#t1990
+#cIntelligent space laboratory organizational design using system entity structure concepts
+#index5390879920f70186a0d4234f
+
+#*Analytic methods to calculate an effective permeability tensor and effective relative permeabilities for cross-bedded flow units
+#@Ekrem Kasap
+#t1990
+#cAnalytic methods to calculate an effective permeability tensor and effective relative permeabilities for cross-bedded flow units
+#index5390879920f70186a0d4234d
+
+#*A prototyping tool for specification and verification of communication protocols
+#@Harbans Kaur
+#t1990
+#cA prototyping tool for specification and verification of communication protocols
+#index5390879920f70186a0d4234c
+
+#*Computing discrete Fourier transforms on a rectangular array consisting of ordinary and crystallographic-invariant data
+#@Dwen-Ren Tsai
+#t1990
+#cComputing discrete Fourier transforms on a rectangular array consisting of ordinary and crystallographic-invariant data
+#index5390879920f70186a0d42332
+
+#*Local-area internetworks: measurements and analysis
+#@Glenn Manning Trewitt
+#t1990
+#cLocal-area internetworks: measurements and analysis
+#index5390879920f70186a0d4232f
+
+#*Representing and reasoning about a dynamic world
+#@Andre Trudel
+#t1990
+#cRepresenting and reasoning about a dynamic world
+#index5390879920f70186a0d42330
+
+#*On the decidability of sparse univariate polynomial interpolation
+#@A. Borodin, P. Tiwari
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c7
+#%5390878e20f70186a0d39e3c
+#%539087f920f70186a0d73473
+#%53908ac620f70186a0dab0dc
+
+#*TRW's Ada process model for incremental development of large software systems
+#@W. Royce
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423cc
+#%5390879220f70186a0d3c813
+#%5390879220f70186a0d3c818
+#%5390879220f70186a0d3c819
+#%5390879220f70186a0d3c837
+#%5390882420f70186a0d88173
+
+#*Proxhy: a process-oriented extensible hypertext architecture
+#@Charles John Kacmar
+#t1990
+#cProxhy: a process-oriented extensible hypertext architecture
+#index5390879920f70186a0d42349
+
+#*A toolbox for shading
+#@Michael Richard Kappel
+#t1990
+#cA toolbox for shading
+#index5390879920f70186a0d42345
+
+#*Evaluation criteria for functional specifications
+#@S. Cardenas, M. V. Zelkowitz
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423ce
+#%5390877920f70186a0d2d15a
+#%5390878320f70186a0d32593
+#%5390878320f70186a0d329d8
+#%5390878720f70186a0d36412
+#%539087eb20f70186a0d6a53d
+#%5390880d20f70186a0d7b105
+#%5390882420f70186a0d873ad
+
+#*Multi-level specification and verification of real-time software
+#@A. Gabrielian, M. K. Franklin
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d1
+#%5390877920f70186a0d2d00e
+#%5390878320f70186a0d33d7c
+#%5390878a20f70186a0d38354
+#%5390879220f70186a0d3d21a
+#%5390880720f70186a0d7a4a5
+#%539088b820f70186a0d90e0b
+
+#*New Generation Computing
+#@K Fuchi
+#t1986
+#cNew Generation Computing
+#index558e1f680cf2c779a6477673
+
+#*Model based interpretation of magnetic resonance human brain scans
+#@Ioannis Kapouleas
+#t1990
+#cModel based interpretation of magnetic resonance human brain scans
+#index5390879920f70186a0d42348
+
+#*Panel on software re-engineering
+#@G. M. E. Lafue
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d7
+
+#*A knowledge-based framework for developing software engineering environments
+#@Carl Chia-Shien Tsai
+#t1990
+#cA knowledge-based framework for developing software engineering environments
+#index5390879920f70186a0d42334
+
+#*Optical-based media: a forecast from 1989–2001
+#@G. Steven Tuthill
+#t1990
+#cOptical-based media: a forecast from 1989–2001
+#index5390879920f70186a0d42336
+
+#*Extraction of primitive features in scene analysis of images corrupted by dependent noise
+#@Tae-ik Kang
+#t1990
+#cExtraction of primitive features in scene analysis of images corrupted by dependent noise
+#index5390879920f70186a0d42347
+
+#*Log-based recovery in asynchronous distributed systems
+#@Kenneth Paul Kane
+#t1990
+#cLog-based recovery in asynchronous distributed systems
+#index5390879920f70186a0d42346
+
+#*Transfer-matrix method for subgraph enumeration: Applications to polypyrene fusenes
+#@D J Klein, G E Hite, T G Schmalz
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5f3
+
+#*Human-oriented conceptual abstractions in the re-engineering of software
+#@T. Biggerstaff
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d9
+
+#*Specification level interoperability
+#@J. C. Wileden, Alexander L. Wolf, W. R. Rosenblatt, P. L. Tarr
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d3
+#%5390877920f70186a0d2d36d
+#%5390877920f70186a0d2d71b
+#%5390877920f70186a0d2ea81
+#%5390878320f70186a0d32861
+#%5390878720f70186a0d34b65
+#%5390878a20f70186a0d37a07
+#%5390878e20f70186a0d39b59
+#%5390878e20f70186a0d3a7d2
+#%5390878e20f70186a0d3a7c6
+#%5390879220f70186a0d3ca7b
+#%5390879220f70186a0d3cc0a
+#%5390879920f70186a0d410eb
+#%5390879d20f70186a0d44bad
+#%539087f820f70186a0d727a2
+#%539087f820f70186a0d72e2d
+#%5390880720f70186a0d7a5c0
+#%5390880720f70186a0d7a5db
+#%5390880720f70186a0d7a651
+#%53908bad20f70186a0dc2a07
+
+#*A data-driven machine for OR-parallel evaluation of logic programs
+#@Z Halim
+#t1986
+#cNew Generation Computing
+#index5390877920f70186a0d2e601
+
+#*The “Catch 22” of re-engineering
+#@W. Kozaczynski
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d8
+
+#*Practice of quality modelling and measurement on software life-cycle
+#@M. Hirayama, H. Sato, J. Tsuda
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423d5
+
+#*An experiment in formal software development: using the B theorem prover on a VDM case study
+#@C. Lafontaine, Y. Ledru, P.-Y. Schobbens
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423cf
+#%5390877920f70186a0d2d038
+#%5390877920f70186a0d2d0e0
+#%5390877920f70186a0d2e7b5
+#%5390877920f70186a0d2e87e
+#%5390877f20f70186a0d2fb05
+#%5390878a20f70186a0d37a50
+#%5390878a20f70186a0d37a4b
+#%5390879220f70186a0d3bed0
+#%5390882720f70186a0d8a6b0
+#%53908b2120f70186a0db6ac3
+#%53908f5b20f70186a0dd94a2
+
+#*Public-key cryptosystems provably secure against chosen ciphertext attacks
+#@M. Naor, M. Yung
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b4
+#%5390879920f70186a0d423b0
+#%5390877920f70186a0d2d9e0
+#%5390877f20f70186a0d306ac
+#%5390877f20f70186a0d306a0
+#%5390877f20f70186a0d30970
+#%5390878320f70186a0d31c0f
+#%5390878720f70186a0d362fa
+#%5390878720f70186a0d362ee
+#%5390878720f70186a0d362f2
+#%5390878720f70186a0d3626a
+#%5390878a20f70186a0d38832
+#%5390878e20f70186a0d39e23
+#%5390878e20f70186a0d39e29
+#%5390878e20f70186a0d3a2a6
+#%5390879220f70186a0d3c3a3
+#%5390879220f70186a0d3c3a2
+#%5390880720f70186a0d7ac77
+#%53908aac20f70186a0da786c
+#%53908adf20f70186a0dac74c
+#%53908adf20f70186a0dac915
+#%53908e0020f70186a0dd656a
+
+#*Software process a&grave; la algebra: OBJ for OBJ
+#@A. T. Nakagawa, K. Futatsugi
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423cd
+#%5390877920f70186a0d2d371
+#%5390877f20f70186a0d31828
+#%5390878720f70186a0d355ee
+#%5390878720f70186a0d355e8
+#%5390878720f70186a0d355e9
+#%5390878720f70186a0d35a1e
+#%5390878a20f70186a0d38707
+#%5390878e20f70186a0d39876
+#%5390879220f70186a0d3c982
+#%5390879220f70186a0d3c98e
+#%5390879220f70186a0d3c983
+#%5390879220f70186a0d3c96e
+#%539087f820f70186a0d72780
+#%53908a9720f70186a0da6cdd
+#%53908aac20f70186a0da7475
+#%53908b0220f70186a0db1e86
+#%53908bad20f70186a0dc2e73
+#%5390a6b120f70186a0e847e5
+
+#*Using object-oriented development for support prototyping
+#@L. Zucconi, G. Mack, L. G. Williams
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423de
+#%5390877920f70186a0d2cb79
+#%5390877920f70186a0d2d2be
+#%5390877920f70186a0d2e52f
+#%5390878720f70186a0d36412
+#%5390878a20f70186a0d3671e
+#%5390878a20f70186a0d385ce
+#%5390879220f70186a0d3c334
+#%539088b820f70186a0d9027a
+#%539089d220f70186a0d9a069
+
+#*The number field sieve
+#@A. K. Lenstra, H. W. Lenstra, Jr., M. S. Manasse, J. M. Pollard
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423ca
+#%5390877920f70186a0d2db07
+#%5390877e20f70186a0d2f2c0
+#%5390879d20f70186a0d44c92
+#%539087a120f70186a0d458a9
+#%539087e720f70186a0d680e0
+
+#*On the complexity of computing a Gröbner basis for the radical of a zero dimensional ideal
+#@Y. N. Lakshman
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423c9
+#%5390878a20f70186a0d36f75
+#%5390878e20f70186a0d39e3c
+#%5390878e20f70186a0d39e4c
+#%5390878e20f70186a0d3a32a
+#%5390878e20f70186a0d3a7e1
+#%5390878e20f70186a0d3a7e2
+#%5390878e20f70186a0d3a7eb
+#%5390878e20f70186a0d3a7e9
+#%5390879220f70186a0d3c937
+#%539087f820f70186a0d73162
+#%539087f920f70186a0d73269
+#%539087f920f70186a0d7326a
+#%539087f920f70186a0d73473
+#%53908a9620f70186a0da597d
+#%53908a9720f70186a0da5a06
+#%53908aac20f70186a0da90a0
+#%53908aac20f70186a0da9138
+#%53908ac620f70186a0dab19a
+#%53908cde20f70186a0dcf560
+
+#*Witness indistinguishable and witness hiding protocols
+#@U. Feige, A. Shamir
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b3
+#%5390877920f70186a0d2d9e0
+#%5390878720f70186a0d362f2
+#%5390878a20f70186a0d37fd6
+#%5390878a20f70186a0d38832
+#%5390878e20f70186a0d39e29
+#%5390878e20f70186a0d3a2a6
+#%5390879220f70186a0d3c3a1
+#%53908a9720f70186a0da6d75
+#%53908adf20f70186a0dac7e5
+#%53908adf20f70186a0dac74c
+#%53908adf20f70186a0dac879
+#%53908adf20f70186a0dac88b
+#%53908adf20f70186a0dac915
+
+#*Proceedings of the 12th international conference on Software engineering
+#@François-Régis Valette
+#t1990
+#c12th ICSE International Conference on Software Engineering
+#index5390879920f70186a0d423cb
+
+#*Mathematical and computer modeling of physiological systems
+#@Vincent C. Rideout
+#t1991
+#cMathematical and computer modeling of physiological systems
+#index5390879920f70186a0d423c6
+
+#*On the assessment of safety-critical software systems
+#@J.-C. Laprie
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423e9
+
+#*The undecidability of the semi-unification problem
+#@A. J. Kfoury, J. Tiuryn, P. Urzyczyn
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423ba
+#%5390877920f70186a0d2ca8d
+#%5390877f20f70186a0d3104b
+#%5390878320f70186a0d32e06
+#%5390878e20f70186a0d3a004
+#%5390879220f70186a0d3cbe6
+#%5390879220f70186a0d3d3ab
+#%53908adf20f70186a0dad112
+#%53908af920f70186a0db0987
+#%53908b1820f70186a0db49c8
+
+#*Perfect zero-knowledge in constant rounds
+#@M. Bellare, S. Micali, R. Ostrovsky
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423be
+#%5390878320f70186a0d326d1
+#%5390878720f70186a0d362f2
+#%5390878e20f70186a0d3a2a6
+#%53908a9720f70186a0da6d75
+#%53908aac20f70186a0da786c
+#%5390a06e20f70186a0e4db82
+
+#*Some experiences of critical software development
+#@E. Pilaud
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423eb
+
+#*An object-oriented software application architecture
+#@M. Ganti, P. Goyal, S. Podar
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423e8
+#%5390877920f70186a0d2cae4
+#%5390877920f70186a0d2cbd8
+#%5390877920f70186a0d2cde1
+#%5390877920f70186a0d2d2be
+#%5390877920f70186a0d2d37d
+#%5390877920f70186a0d2d37c
+#%5390877920f70186a0d2e52d
+#%5390877920f70186a0d2f004
+#%5390877f20f70186a0d3135d
+#%5390878320f70186a0d31a62
+#%5390878320f70186a0d32814
+#%5390878a20f70186a0d36f55
+#%5390878a20f70186a0d372a7
+#%5390878a20f70186a0d37d4a
+#%5390878a20f70186a0d38bd4
+#%5390880720f70186a0d7a966
+#%5390893e20f70186a0d92dc0
+
+#*Decidability of the multiplicity equivalence of multitape finite automata
+#@T. Harju, J. Karhumäki
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423bc
+#%5390878320f70186a0d32b23
+#%5390878a20f70186a0d379bb
+#%5390879220f70186a0d3c75c
+#%539087f920f70186a0d731b8
+#%5390882420f70186a0d88500
+#%539088b920f70186a0d91467
+
+#*Dataflow and hybrid dataflow architecture summary
+#@A. P. W. Böhm
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423c1
+
+#*ISPW5: experience with software process models
+#@D. E. Perry
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423ed
+#%539087f820f70186a0d72392
+
+#*Separators in two and three dimensions
+#@G. L. Miller, W. Thurston
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a2
+#%5390877920f70186a0d2e2d9
+#%5390877f20f70186a0d3103c
+#%5390878320f70186a0d328a9
+#%5390878320f70186a0d33b27
+#%53908cde20f70186a0dcf972
+#%539090c420f70186a0ddfd0e
+
+#*Online algorithms for locating checkpoints
+#@M. Bern, D. H. Greene, A. Raghunathan, M. Sudan
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423ab
+#%5390877920f70186a0d2cf01
+#%5390878320f70186a0d326e1
+#%5390878720f70186a0d359c9
+#%5390878e20f70186a0d39e3e
+#%5390878e20f70186a0d3a252
+#%5390879920f70186a0d423ad
+#%5390879920f70186a0d423af
+#%539087f820f70186a0d72d3f
+#%539087f820f70186a0d72d40
+#%53908a9720f70186a0da6ce4
+
+#*Quantifiers and approximation
+#@A. Panconesi, D. Ranjan
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b6
+#%5390877920f70186a0d2dd6d
+#%5390878320f70186a0d3300b
+#%5390878a20f70186a0d37267
+#%5390878e20f70186a0d39e34
+#%539087f920f70186a0d7335c
+#%539088b920f70186a0d9141d
+#%53908b1820f70186a0db50b5
+
+#*The discrete log is very discreet
+#@A. W. Schrift, A. Shamir
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b2
+#%5390877920f70186a0d2cd7f
+#%5390877920f70186a0d2d7e5
+#%5390877f20f70186a0d2f3ff
+#%5390877f20f70186a0d306a0
+#%5390877f20f70186a0d308b1
+#%5390878720f70186a0d362f6
+#%5390879220f70186a0d3c3a1
+#%5390879220f70186a0d3c3a2
+#%5390880720f70186a0d7ac77
+#%53908adf20f70186a0dac879
+#%53908e0020f70186a0dd656a
+#%53908f5b20f70186a0dd9d30
+
+#*A strategy for the regional characterization of potential energy surfaces
+#@You-Hsing Yeh, William H Fink
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5fd
+
+#*Position statement: ICSE-12 Workshop on Industrial Experience Using Formal Methods
+#@D. Bjorner, L. Druffel
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423f1
+
+#*Towards systems engineering—a personal view of progress
+#@D. E. Talbot
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423f6
+
+#*The evolution of technology transfer at MCC's Software Technology Program: from didactic to dialectic
+#@J. D. Babcock, L. A. Belady, N. C. Gore
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423f4
+#%5390878a20f70186a0d372a7
+#%5390878e20f70186a0d39340
+#%5390879220f70186a0d3c334
+#%539089d220f70186a0d9a085
+
+#*Graphical aids to constructing parallel programs summary
+#@David Bailey
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423bd
+
+#*Pseudo-random generators under uniform assumptions
+#@J. Håstad
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423b1
+#%5390877920f70186a0d2cd7f
+#%5390877f20f70186a0d31054
+#%5390879220f70186a0d3c3a1
+#%5390879220f70186a0d3c3a2
+#%539087e720f70186a0d680e0
+
+#*Performance of parallel applications on a shared-memory multiprocessor system
+#@Shreekant S. Thakkar
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423bb
+
+#*A VLSI chip set for a multiprocessor performance measurement system
+#@A. Mink, R. Carpenter
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423b9
+
+#*Random walks on weighted graphs, and applications to on-line algorithms
+#@D. Coppersmith, P. Doyle, P. Raghavan, M. Snir
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423ad
+#%5390877920f70186a0d2cf01
+#%5390878320f70186a0d326e1
+#%5390878e20f70186a0d39e3e
+#%5390879220f70186a0d3c3d6
+#%5390879920f70186a0d423af
+#%539087f820f70186a0d72d3f
+#%539087f820f70186a0d72d40
+#%53908a9720f70186a0da6ce5
+#%53908a9720f70186a0da6ce4
+
+#*Output sensitive construction of levels and Voronoi diagrams in Rd of order 1 to k
+#@K. Mulmuley
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a6
+#%5390877920f70186a0d2dca8
+#%5390877920f70186a0d2ed70
+#%5390877920f70186a0d2ee99
+#%5390878320f70186a0d326bf
+#%5390879220f70186a0d3c4e0
+#%539087e720f70186a0d680e0
+#%539087f920f70186a0d73526
+#%5390a17720f70186a0e51931
+#%5390a17720f70186a0e5197a
+
+#*Small-bias probability spaces: efficient constructions and applications
+#@J. Naor, M. Naor
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42397
+#%5390877920f70186a0d2d26a
+#%5390877920f70186a0d2df64
+#%5390877920f70186a0d2ec65
+#%5390877920f70186a0d2ed5e
+#%5390877f20f70186a0d30e09
+#%5390877f20f70186a0d31036
+#%5390878320f70186a0d326ea
+#%5390878320f70186a0d326c9
+#%5390878320f70186a0d32ee9
+#%5390878320f70186a0d3364d
+#%5390878a20f70186a0d37263
+#%5390878a20f70186a0d37fd4
+#%5390878e20f70186a0d39e3d
+#%5390878e20f70186a0d3b113
+#%5390879220f70186a0d3c3a7
+#%539087c720f70186a0d578f2
+#%5390924920f70186a0de308b
+#%5390a06e20f70186a0e4db19
+#%5390a06e20f70186a0e4db07
+#%5390a17720f70186a0e51981
+#%5390a17720f70186a0e519a8
+#%5390a17720f70186a0e51983
+#%5390a17720f70186a0e51941
+
+#*Experience in using defined processes for technology transfer
+#@K. F. Fischer
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423f9
+
+#*Parallel program visualization using ParVis
+#@Laura B. Linden
+#t1990
+#cParallel computer systems
+#index5390879920f70186a0d423ac
+
+#*Leighton-Rao might be practical: faster approximation algorithms for concurrent flow with uniform capacities
+#@P. Klein, C. Stein, É. Tardos
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a4
+#%5390877920f70186a0d2ed55
+#%5390877f20f70186a0d31035
+#%5390878320f70186a0d3288a
+#%5390878e20f70186a0d39af6
+#%5390880d20f70186a0d7baec
+
+#*A separator theorem for graphs with an excluded minor and its applications
+#@N. Alon, P. Seymour, R. Thomas
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d423a1
+#%5390877920f70186a0d2cd3c
+#%5390879220f70186a0d3c117
+#%53908b9320f70186a0dc1d75
+#%53908bad20f70186a0dc202a
+#%539098dc20f70186a0e0dc3d
+
+#*Not all keys can be hashed in constant time
+#@J. Gil, F. Meyer auf der Heide, A. Wigderson
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4239a
+#%5390877920f70186a0d2cd13
+#%5390877920f70186a0d2ed56
+#%5390879920f70186a0d42388
+#%539087f920f70186a0d734a1
+#%53908aac20f70186a0da786e
+#%53908bad20f70186a0dc31f8
+
+#*Semi formal process model for technology transfer
+#@G. Glynn
+#t1990
+#cICSE '90 Proceedings of the 12th international conference on Software engineering
+#index5390879920f70186a0d423fd
+
+#*Translating production rules into a forward reasoning Prolog program
+#@A Yamamoto, H Tanaka
+#t1986
+#cNew Generation Computing
+#index5390877920f70186a0d2e605
+
+#*Towards optimal simulations of formulas by bounded-width programs
+#@R. Cleve
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4239e
+#%5390877920f70186a0d2ed47
+#%5390877920f70186a0d2ed4a
+#%5390878e20f70186a0d39e22
+#%5390878e20f70186a0d39e37
+#%53908a7420f70186a0da2ef7
+#%53908bad20f70186a0dc21a9
+#%53908bad20f70186a0dc31de
+#%53908bad20f70186a0dc31df
+
+#*A comparison of the rotational potential functions in butane, propylsilane, ethylmethylsilane, and 1,2-disilylethane: Ab initio and MM2 results
+#@Salvatore Profeta, Jr., Rayomand J Unwalla, Binh T Nguyen, Frank K Cartledge
+#t1986
+#cJournal of Computational Chemistry
+#index5390877920f70186a0d2e5fc
+
+#*A tool supporting query optimization and program transformation techniques
+#@John Sieg, Jr.
+#t1990
+#cCSC '90 Proceedings of the 1990 ACM annual conference on Cooperation
+#index5390879920f70186a0d42402
+#%5390877920f70186a0d2d1a7
+#%5390877920f70186a0d2d254
+#%5390877f20f70186a0d2fd63
+#%5390878720f70186a0d34af7
+#%5390878720f70186a0d34af6
+#%5390878a20f70186a0d37317
+#%5390878e20f70186a0d390a4
+#%5390878e20f70186a0d3ae86
+#%539087f820f70186a0d72e2d
+#%539087f820f70186a0d72e1c
+#%539087f920f70186a0d73478
+#%5390880720f70186a0d7a4d5
+#%5390880720f70186a0d7a5bc
+#%5390880720f70186a0d7a5a7
+#%5390882420f70186a0d8712c
+#%5390882d20f70186a0d8e200
+#%53908a4020f70186a0d9e84b
+#%53908a4020f70186a0d9e84c
+#%53908a9620f70186a0da47b7
+#!In this paper we propose the integration of query optimization and program transformation technologies in a second generation optimizer generator called OG. The input to OG is a high-level specification of the strategy transformations done by each module of a query optimizer. OG's design is intended to support the specification and automatic implementation of extensions to data-access languages.
+
+#*Functions with bounded symmetric communication complexity and circuits with mod m gates
+#@M. Szegedy
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d4239f
+#%5390877920f70186a0d2d334
+#%5390877920f70186a0d2ed47
+#%5390877920f70186a0d2ed48
+#%5390878320f70186a0d326c3
+#%5390878320f70186a0d33f99
+#%5390878e20f70186a0d3a3e2
+#%5390879220f70186a0d3c3a0
+#%53908bad20f70186a0dc21a4
+
+#*The computational complexity of universal hashing
+#@Y. Mansour, N. Nisan, P. Tiwari
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42399
+#%5390877920f70186a0d2ed4d
+#%5390877e20f70186a0d2f201
+#%5390879220f70186a0d3c3b2
+#%5390879220f70186a0d3c3b4
+#%53908b9320f70186a0dc1a07
+#%53908bad20f70186a0dc31f8
+#%539090c420f70186a0ddfd0e
+#%5390924920f70186a0de2f05
+
+#*The analysis of closed hashing under limited randomness
+#@J. P. Schmidt, A. Siegel
+#t1990
+#cSTOC '90 Proceedings of the twenty-second annual ACM symposium on Theory of computing
+#index5390879920f70186a0d42398
+#%5390877920f70186a0d2d13d
+#%5390878e20f70186a0d39e41
+#%5390879220f70186a0d3c3c1
+#%5390879220f70186a0d3d493
+#%539087eb20f70186a0d6a53d
+#%539087f920f70186a0d7329f
+
+#*An interactive clustering-based approach to integrating source query interfaces on the deep Web
+#@Wensheng Wu, Clement Yu, AnHai Doan, Weiyi Meng
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac8f
+#%5390878e20f70186a0d3a27b
+#%5390879920f70186a0d416db
+#%5390880220f70186a0d77c2d
+#%5390880720f70186a0d797f1
+#%5390881220f70186a0d7e323
+#%5390881d20f70186a0d82214
+#%5390882420f70186a0d88366
+#%5390882420f70186a0d88847
+#%539088b820f70186a0d90cae
+#%53908a5820f70186a0da122f
+#%53908a9620f70186a0da472c
+#%53908a9620f70186a0da4899
+#%53908a9620f70186a0da4885
+#%53908a9620f70186a0da492b
+#%53908b4920f70186a0dbb0b1
+#%53908b4920f70186a0dbc3ed
+#%53908d6520f70186a0dd1a07
+#%53908dff20f70186a0dd3efc
+#%539098dc20f70186a0e0dabe
+#%53909f6920f70186a0e3a996
+#%53909f8c20f70186a0e3fe41
+#%53909f8c20f70186a0e3fe6b
+#%5390a6b220f70186a0e860c3
+
+#*Colorful XML: one hierarchy isn't enough
+#@H. V. Jagadish, Laks V. S. Lakshmanan, Monica Scannapieco, Divesh Srivastava, Nuwee Wiwatwattana
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac9c
+#%539087be20f70186a0d5255b
+#%539087d920f70186a0d5ffa3
+#%539087e120f70186a0d665f6
+#%539087ef20f70186a0d6e47a
+#%5390881220f70186a0d7e318
+#%5390881720f70186a0d7fb2d
+#%5390882420f70186a0d88f4d
+#%5390882420f70186a0d89098
+#%5390882420f70186a0d890a0
+#%5390882d20f70186a0d8dabc
+#%5390882d20f70186a0d8dab3
+#%5390893e20f70186a0d92e7f
+#%53908a5820f70186a0da0c09
+#%53908a7420f70186a0da4672
+#%53908a9620f70186a0da4727
+#%53908a9620f70186a0da4721
+#%53908a9720f70186a0da6840
+#%53908b4920f70186a0dbab13
+#%53908b4920f70186a0dbab12
+#%53908d6620f70186a0dd2fab
+#!XML has a tree-structured data model, which is used to uniformly represent structured as well as semi-structured data, and also enable concise query specification in XQuery, via the use of its XPath (twig) patterns. This in turn can leverage the recently developed technology of structural join algorithms to evaluate the query efficiently. In this paper, we identify a fundamental tension in XML data modeling: (i) data represented as deep trees (which can make effective use of twig patterns) are often un-normalized, leading to update anomalies, while (ii) normalized data tends to be shallow, resulting in heavy use of expensive value-based joins in queries.Our solution to this data modeling problem is a novel multi-colored trees (MCT) logical data model, which is an evolutionary extension of the XML data model, and permits trees with multi-colored nodes to signify their participation in multiple hierarchies. This adds significant semantic structure to individual data nodes. We extend XQuery expressions to navigate between structurally related nodes, taking color into account, and also to create new colored trees as restructurings of an MCT database. While MCT serves as a significant evolutionary extension to XML as a logical data model, one of the key roles of XML is for information exchange. To enable exchange of MCT information, we develop algorithms for optimally serializing an MCT database as XML. We discuss alternative physical representations for MCT databases, using relational and native XML databases, and describe an implementation on top of the Timber native XML database. Experimental evaluation, using our prototype implementation, shows that not only are MCT queries/updates more succinct and easier to express than equivalent shallow tree XML queries, but they can also be significantly more efficient to evaluate than equivalent deep and shallow tree XML queries/updates.
+
+#*The Priority R-tree: a practically efficient and worst-case optimal R-tree
+#@Lars Arge, Mark de Berg, Herman J. Haverkort, Ke Yi
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfaca4
+#%5390879920f70186a0d41e23
+#%539087be20f70186a0d52129
+#%539087eb20f70186a0d6a40d
+#%539087ef20f70186a0d6c266
+#%539087f820f70186a0d7289a
+#%5390880720f70186a0d7a46a
+#%5390881820f70186a0d81088
+#%5390881820f70186a0d81f89
+#%5390893e20f70186a0d928e8
+#%53908a4020f70186a0d9f38b
+#%53908a5720f70186a0da0086
+#%53908a9620f70186a0da4703
+#%53908a9620f70186a0da4c3a
+#%53908a9620f70186a0da4c55
+#%53908b1820f70186a0db5246
+#%5390979920f70186a0dffc58
+#%539089ab20f70186a0d96ba4
+#!We present the Priority R-tree, or PR-tree, which is the first R-tree variant that always answers a window query using O((N/B)1 1/d + T/B) I/Os, where N is the number of d-dimensional (hyper-) rectangles stored in the R-tree, B is the disk block size, and T is the output size. This is provably asymptotically optimal and significantly better than other R-tree variants, where a query may visit all N/B leaves in the tree even when T = 0. We also present an extensive experimental study of the practical performance of the PR-tree using both real-life and synthetic data. This study shows that the PR-tree performs similar to the best known R-tree variants on real-life and relatively nicely distributed data, but outperforms them significantly on more extreme data.
+
+
+#*Conditional selectivity for statistics on query expressions
+#@Nicolas Bruno, Surajit Chaudhuri
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfaca1
+#%5390878a20f70186a0d37318
+#%5390878e20f70186a0d3ae86
+#%539087d920f70186a0d5ff8b
+#%539087e720f70186a0d69347
+#%539087f320f70186a0d6f872
+#%539087f320f70186a0d6f86a
+#%5390880220f70186a0d75f1e
+#%5390881220f70186a0d7e30a
+#%5390881220f70186a0d7e29b
+#%5390881220f70186a0d7e2f8
+#%5390881220f70186a0d7e31f
+#%5390881220f70186a0d7e2f7
+#%5390882d20f70186a0d8dab8
+#%5390893e20f70186a0d9285c
+#%539089ab20f70186a0d96bb8
+#%53908a5720f70186a0da0853
+#%53908a7420f70186a0da453e
+#%53908a9620f70186a0da4723
+#%53908a9620f70186a0da487d
+#%53908a9620f70186a0da49c9
+#%53908a9620f70186a0da4ed2
+#%53908a9620f70186a0da4ef1
+#%53908d6620f70186a0dd2fa5
+#%539095ba20f70186a0df108a
+#%53909f8c20f70186a0e3fe73
+#!Cardinality estimation during query optimization relies on simplifying assumptions that usually do not hold in practice. To diminish the impact of inaccurate estimates during optimization, statistics on query expressions (SITs) have been previously proposed. These statistics help directly model the distribution of tuples on query sub-plans. Past work in statistics on query expressions has exploited view matching technology to harness their benefits. In this paper we argue against such an approach as it overlooks significant opportunities for improvement in cardinality estimations. We then introduce a framework to reason with SITs based on the notion of conditional selectivity. We present a dynamic programming algorithm to efficiently find the most accurate selectivity estimation for given queries, and discuss how such an approach can be incorporated into existing optimizers with a small number of changes. Finally, we demonstrate experimentally that our technique results in superior cardinality estimations than previous approaches with very little overhead.
+
+#*Computing Clusters of Correlation Connected objects
+#@Christian Böhm, Karin Kailing, Peer Kröger, Arthur Zimek
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfacad
+#%539087e720f70186a0d69655
+#%539087f320f70186a0d6f85f
+#%539087f320f70186a0d6f860
+#%539087f820f70186a0d711de
+#%5390880220f70186a0d75ee0
+#%5390880720f70186a0d78786
+#%5390882d20f70186a0d8dac3
+#%5390882d20f70186a0d8dac5
+#%539089ab20f70186a0d94fd3
+#%53908a5720f70186a0da013e
+#%53908a9620f70186a0da47d9
+#%53908a9620f70186a0da4e4a
+#%53908bfb20f70186a0dc9e4f
+#%53908d6620f70186a0dd2f8b
+#%5390958a20f70186a0defdcd
+#%5390958a20f70186a0defde7
+#!The detection of correlations between different features in a set of feature vectors is a very important data mining task because correlation indicates a dependency between the features or some association of cause and effect between them. This association can be arbitrarily complex, i.e. one or more features might be dependent from a combination of several other features. Well-known methods like the principal components analysis (PCA) can perfectly find correlations which are global, linear, not hidden in a set of noise vectors, and uniform, i.e. the same type of correlation is exhibited in all feature vectors. In many applications such as medical diagnosis, molecular biology, time sequences, or electronic commerce, however, correlations are not global since the dependency between features can be different in different subgroups of the set. In this paper, we propose a method called 4C (Computing Correlation Connected Clusters) to identify local subgroups of the data objects sharing a uniform but arbitrarily complex correlation. Our algorithm is based on a combination of PCA and density-based clustering (DBSCAN). Our method has a determinate result and is robust against noise. A broad comparative evaluation demonstrates the superior performance of 4C over competing methods such as DBSCAN, CLIQUE and ORCLUS.
+
+#*Transaction support for indexed summary views
+#@Goetz Graefe, Michael Zwilling
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfaca2
+#%5390877920f70186a0d2caf2
+#%5390877920f70186a0d2dc87
+#%5390877920f70186a0d2ee96
+#%5390879220f70186a0d3c62b
+#%539087a520f70186a0d48a13
+#%539087a520f70186a0d48fdc
+#%539087a520f70186a0d48ff3
+#%539087d420f70186a0d5df0a
+#%539087ef20f70186a0d6e450
+#%539087f920f70186a0d734f4
+#%5390893e20f70186a0d9288b
+#%53908a5720f70186a0da0adc
+#%53908a7420f70186a0da45a3
+#%53908a7420f70186a0da45b8
+#%53908a9620f70186a0da47c6
+#%53908a9620f70186a0da4b8e
+#%53909f8c20f70186a0e3fe55
+#!Materialized views have become a standard technique for performance improvement in decision support databases and for a variety of monitoring purposes. In order to avoid inconsistencies and thus unpredictable query results, materialized views and their indexes should be maintained immediately within user transaction just like indexes on ordinary tables. Unfortunately, the smaller a materialized view is, the higher the concurrency contention between queries and updates as well as among concurrent updates. Therefore, we have investigated methods that reduce contention without forcing users to sacrifice serializability and thus predictable application semantics. These methods extend escrow locking with multi-granularity (hierarchical) locking, snapshot transactions, multi-version concurrency control, key range locking, and system transactions, i.e., multiple proven database implementation techniques. The complete design eliminates all contention between pure read transactions and pure update transactions as well as contention among pure update transactions as well as contention among pure update transactions; it enables maximal concurrency of mixed read-write transactions with other transactions; it supports bulk operations such as data import and online index creation; and it provides recovery for transaction, media, and system failures.
+
+#*Fast computation of database operations using graphics processors
+#@Naga K. Govindaraju, Brandon Lloyd, Wei Wang, Ming Lin, Dinesh Manocha
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac99
+#%539087a620f70186a0d49daa
+#%539087c320f70186a0d548eb
+#%539087f320f70186a0d70fa9
+#%539087fe20f70186a0d75e4d
+#%5390881220f70186a0d7e31f
+#%5390882420f70186a0d8909a
+#%5390882420f70186a0d894a8
+#%5390882d20f70186a0d8daae
+#%5390882d20f70186a0d8def4
+#%539088b820f70186a0d8f3d6
+#%5390893e20f70186a0d92853
+#%53908a7420f70186a0da45e9
+#%53908a7420f70186a0da45eb
+#%53908a9620f70186a0da471d
+#%53908a9620f70186a0da4876
+#%53908a9620f70186a0da49db
+#%53908b2a20f70186a0db9741
+#%53908b4920f70186a0dbc340
+#%5390880d20f70186a0d7c53e
+#%53908bde20f70186a0dc927b
+#%53908bde20f70186a0dc9282
+#%53908d6520f70186a0dd1a1b
+#%53908e0020f70186a0dd4a32
+#%53908e0020f70186a0dd49fe
+#%53908e0020f70186a0dd4a33
+#%53908e0020f70186a0dd4a31
+#%53909f6920f70186a0e3a973
+#%5390a1e620f70186a0e59b5e
+#!We present new algorithms for performing fast computation of several common database operations on commodity graphics processors. Specifically, we consider operations such as conjunctive selections, aggregations, and semi-linear queries, which are essential computational components of typical database, data warehousing, and data mining applications. While graphics processing units (GPUs) have been designed for fast display of geometric primitives, we utilize the inherent pipelining and parallelism, single instruction and multiple data (SIMD) capabilities, and vector processing functionality of GPUs, for evaluating boolean predicate combinations and semi-linear queries on attributes and executing database operations efficiently. Our algorithms take into account some of the limitations of the programming model of current GPUs and perform no data rearrangements. Our algorithms have been implemented on a programmable GPU (e.g. NVIDIA's GeForce FX 5900) and applied to databases consisting of up to a million records. We have compared their performance with an optimized implementation of CPU-based algorithms. Our experiments indicate that the graphics processor available on commodity computer systems is an effective co-processor for performing database operations.
+
+#*Approximate XML query answers
+#@Neoklis Polyzotis, Minos Garofalakis, Yannis Ioannidis
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac9d
+#%5390879920f70186a0d414c2
+#%539087d920f70186a0d5ff7a
+#%5390882d20f70186a0d8dac0
+#%5390882d20f70186a0d8dab1
+#%53908a4020f70186a0d9f3ea
+#%53908a5820f70186a0da0c15
+#%53908a7420f70186a0da45dc
+#%53908a7420f70186a0da468e
+#%53908a9620f70186a0da47d8
+#%53908a9620f70186a0da488e
+#%53908d6520f70186a0dd1a01
+#%53908d6620f70186a0dd2fac
+#%5390956e20f70186a0decc44
+#%5390962020f70186a0df4c9d
+#%53909f6920f70186a0e3a98a
+#%53909f6920f70186a0e3a988
+#%53909f8c20f70186a0e3fe37
+#%53909f8c20f70186a0e3fe2f
+#!The rapid adoption of XML as the standard for data representation and exchange foreshadows a massive increase in the amounts of XML data collected, maintained, and queried over the Internet or in large corporate data-stores. Inevitably, this will result in the development of on-line decision support systems, where users and analysts interactively explore large XML data sets through a declarative query interface (e.g., XQuery or XSLT). Given the importance of remaining interactive, such on-line systems can employ approximate query answers as an effective mechanism for reducing response time and providing users with early feedback. This approach has been successfully used in relational systems and it becomes even more compelling in the XML world, where the evaluation of complex queries over massive tree-structured data is inherently more expensive.In this paper, we initiate a study of approximate query answering techniques for large XML databases. Our approach is based on a novel, conceptually simple, yet very effective XML-summarization mechanism: TREESKETCH synopses. We demonstrate that, unlike earlier techniques focusing solely on selectivity estimation, our TREESKETCH synopses are much more effective in capturing the complete tree structure of the underlying XML database. We propose novel construction algorithms for building TREESKETCH summaries of limited size, and describe schemes for processing general XML twig queries over a concise TREESKETCH in order to produce very fast, approximate tree-structured query answers. To quantify the quality of such approximate answers, we propose a novel, intuitive error metric that captures the quality of the approximation in terms of both the overall structure of the XML tree and the distribution of document edges. Experimental results on real-life and synthetic data sets verify the effectiveness of our TREESKETCH synopses in producing fast, accurate approximate answers and demonstrate their benefits over previously proposed techniques that focus solely on selectivity estimation. In particular, TREESKETCHes yield faster, more accurate approximate answers and selectivity estimates, and are more efficient to construct. To the best of our knowledge, ours is the first work to address the timely problem of producing fast, approximate tree-structured answers for complex XML queries.
+
+#*A bi-level Bernoulli scheme for database sampling
+#@Peter J. Haas, Christian König
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac9e
+#%539087d920f70186a0d5ff89
+#%539087dd20f70186a0d644a8
+#%539087f320f70186a0d6f871
+#%539087f320f70186a0d6f872
+#%539087f320f70186a0d705e0
+#%53908a5820f70186a0da0ca5
+#%53908a7420f70186a0da4659
+#!Current database sampling methods give the user insufficient control when processing ISO-style sampling queries. To address this problem, we provide a bi-level Bernoulli sampling scheme that combines the row-level and page-level sampling methods currently used in most commercial systems. By adjusting the parameters of the method, the user can systematically trade off processing speed and statistical precision---the appropriate choice of parameter settings becomes a query optimization problem. We indicate the SQL extensions needed to support bi-level sampling and determine the optimal parameter settings for an important class of sampling queries with explicit time or accuracy constraints. As might be expected, row-level sampling is preferable when data values on each page are homogeneous, whereas page-level sampling should be used when data values on a page vary widely. Perhaps surprisingly, we show that in many cases the optimal sampling policy is of the "bang-bang" type: we identify a "page-heterogeneity index" (PHI) such that optimal sampling is as "row-like" as possible if the PHI is less than 1 and as "page-like" as possible otherwise. The PHI depends upon both the query and the data, and can be estimated by means of a pilot sample. Because pilot sampling can be nontrivial to implement in commercial database systems, we also give a heuristic method for setting the sampling parameters; the method avoids pilot sampling by using a small number of summary statistics that are maintained in the system catalog. Results from over 1100 experiments on 372 real and synthetic data sets show that the heuristic method performs optimally about half of the time, and yields sampling errors within a factor of 2.2 of optimal about 93% of the time. The heuristic method is stable over a wide range of sampling rates and performs best in the most critical cases, where the data is highly clustered or skewed.
+
+#*Identifying similarities, periodicities and bursts for online search queries
+#@Michail Vlachos, Christopher Meek, Zografoula Vagena, Dimitrios Gunopulos
+#t2004
+#cSIGMOD '04 Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+#index5390972920f70186a0dfac92
+#%5390879920f70186a0d41e23
+#%539087d920f70186a0d610c0
+#%539087dd20f70186a0d634f0
+#%539087dd20f70186a0d644de
+#%539087e120f70186a0d66911
+#%5390881220f70186a0d7e2f2
+#%53908a5720f70186a0d9fbd9
+#%53908a7420f70186a0da4484
+#%53908a9620f70186a0da4ba5
+#%53908a9620f70186a0da4c5a
+#%53908b4920f70186a0dbabba
+#%53908b4920f70186a0dbc3db
+#%5390958a20f70186a0df05da
+#%53909f6920f70186a0e3a985
+#!We present several methods for mining knowledge from the query logs of the MSN search engine. Using the query logs, we build a time series for each query word or phrase (e.g., 'Thanksgiving' or 'Christmas gifts') where the elements of the time series are the number of times that a query is issued on a day. All of the methods we describe use sequences of this form and can be applied to time series data generally. Our primary goal is the discovery of semantically similar queries and we do so by identifying queries with similar demand patterns. Utilizing the best Fourier coefficients and the energy of the omitted components, we improve upon the state-of-the-art in time-series similarity matching. The extracted sequence features are then organized in an efficient metric tree index structure. We also demonstrate how to efficiently and accurately discover the important periods in a time-series. Finally we propose a simple but effective method for identification of bursts (long or short-term). Using the burst information extracted from a sequence, we are able to efficiently perform 'query-by-burst' on the database of time-series. We conclude the presentation with the description of a tool that uses the described methods, and serves as an interactive exploratory data discovery tool for the MSN query database.
+
+#*Proceedings of the Second VDLB international conference on Secure Data Management
+#@Willem Jonker, Milan Petković
+#t2005
+#cSDM'05 Proceedings of the Second VDLB international conference on Secure Data Management
+#index5390b2d720f70186a0eecaf1
+
+#*XML security in the next generation optical disc context
+#@Gopakumar G. Nair, Ajeesh Gopalakrishnan, Sjouke Mauw, Erik Moll
+#t2005
+#cSDM'05 Proceedings of the Second VDLB international conference on Secure Data Management
+#index5390b2d720f70186a0eecb00
+#%539088b920f70186a0d91a03
+#%5390962020f70186a0df5d71
+#!The Extensible Markup Language (XML) is considered as the de facto standard for information processing and exchange on the Internet and in the enterprise services domain. It is widely regarded that XML has the potential of being an interoperable standard for interactive applications in the next generation connected Consumer Electronic devices. A key industry concern in using XML in CE devices is that how basic security requirements pertaining to the above said domain can be met. Notably, the standardization bodies of the Internet domain such as W3C and OASIS have defined specifications for cryptography-based security solutions using XML technology that is mainly aimed for web applications. This paper investigates and presents various scenarios where XML Security can be applied to markup based interactive applications in the context of a next generation Consumer Electronic Optical Disc Player. We conclude the paper by presenting a prototype establishing how these scenarios could be realized in practice.
+
+#*Information seesaw: availability vs. security management in the UbiComp world
+#@Boris Dragovic, Calicrates Policroniades
+#t2005
+#cSDM'05 Proceedings of the Second VDLB international conference on Secure Data Management
+#index5390b2d720f70186a0eecaff
+#%5390972920f70186a0dfaae8
+#%5390981d20f70186a0e06a08
+#%53909ee020f70186a0e32bd6
+#%5390881820f70186a0d80ea7
+#%539088b820f70186a0d8f7d1
+#%53908af920f70186a0dae3e8
+#%53908b4920f70186a0dbacfb
+#%5390962020f70186a0df4ea0
+#!The ubiquitous computing vision brings about a number of information security and privacy challenges, some of which we already face in the mobile computing arena. This work focuses on a context-specific class of information leakage threats not involving a malicious custodian. Information exposure threats arise as a side effect of a particular choice of data management procedures employed during legitimate information use or possession in a specific context. They affect, in different forms, information throughout its lifetime in a ubiquitous computing environment. To maximize information availability, and thus its value to user, under unpredictably varying threat models, we depart form static and inflexible approaches to secure data management to provide for continuous and adaptive information exposure protection. We outline a means of structured reasoning about information exposure and introduce a metric for its quantification. An approach to threat mitigating information management operations discrimination based on information utility change is also presented. To unify the introduced concepts into a coherent big picture we form a Levels of Exposure model. On the implementation side, we overview a type aware, sub-file granularity data repository system that meets the requirements implied in the paper.
+
+#*Can attackers learn from samples?
+#@Ganesh Ramesh
+#t2005
+#cSDM'05 Proceedings of the Second VDLB international conference on Secure Data Management
+#index5390b2d720f70186a0eecaf9
+#%5390981d20f70186a0e049b1
+#%5390985d20f70186a0e06e4b
+#%539087be20f70186a0d51fe3
+#%5390879220f70186a0d3d1fa
+#%5390880220f70186a0d75f15
+#%5390880d20f70186a0d7d2ff
+#%5390881220f70186a0d7e2b1
+#%53908ac620f70186a0daa517
+#%53908adf20f70186a0dac4ea
+#%53908b4920f70186a0dbbf85
+#%53908b4920f70186a0dbc210
+#%53908b4920f70186a0dbc3ee
+#%5390962020f70186a0df3a42
+#%539096cb20f70186a0df702e
+#%5390b3ae20f70186a0ef2ccb
+#!Sampling is often used to achieve disclosure limitation for categorical and microarray datasets. The motivation is that while the public gets a snapshot of what is in the data, the entire data is not revealed and hence complete disclosure is prevented. However, the presence of prior knowledge is often overlooked in risk assessment. A sample plays an important role in risk analysis and can be used by a malicious user to construct prior knowledge of the domain. In this paper, we focus on formalizing the various kinds of prior knowledge an attacker can develop using samples and make the following contributions. We abstract various types of prior knowledge and define measures of quality which enables us to quantify how good the prior knowledge is with respect to the true knowledge given by the database. We propose a lightweight general purpose sampling framework with which a data owner can assess the impact of various sampling methods on the quality of prior knowledge. Finally, through a systematic set of experiments using real benchmark datasets, we study the effect of various sampling parameters on the quality of prior knowledge that is obtained from these samples. Such an analysis can help the data owner in making informed decisions about releasing samples to achieve disclosure limitation.

@@ -1,0 +1,164 @@
+blocking : hash on year and venue
+similaritymethod : jaccard_distance
+
+****************************** threshold : .60 ******************************
+
+blocking time: 2.6450157165527344
+brute force/base time: 518.936840057373
+no of entities in base : 1739
+no of entities with blocking :1555
+accuracy :0.8941920644048303
+pricision :1.0
+recall :0.8941920644048303
+fScore :0.9441408621736491
+****************************** threshold : .70 ******************************
+blocking : hash on year and venue
+similaritymethod : jaccard_distance
+threshold: .70
+time : 2.26 sec
+amount of records: 1265
+
+blocking : none
+similaritymethod : jaccard_distance
+threshold: .70
+time : 660 sec
+amount of records: 1289
+
+no of entities in base : 1288
+no of entities with blocking :1264
+accuracy :0.9813664596273292
+pricision :1.0
+recall :0.9813664596273292
+fScore :0.9905956112852665
+
+****************************** threshold : .80 ******************************
+ 
+blocking : hash on year and venue
+similaritymethod : jaccard_distance
+threshold: .80
+time : 2.92 sec
+amount of records: 585
+
+blocking : none
+similaritymethod : jaccard_distance
+threshold: .80
+time : 584.33 sec
+amount of records: 593
+
+no of entities in base : 593
+no of entities with blocking :585
+accuracy : 0.9865092748735245
+pricision : 1.0
+recall : 0.9865092748735245
+fScore : 0.9932088285229203
+
+
+****************************** threshold : .90 ******************************
+ 
+blocking : hash on year and venue
+similaritymethod : jaccard_distance
+threshold: .90
+time : 1.99  sec
+amount of records: 61
+
+blocking : none
+similaritymethod : jaccard_distance
+threshold: .90
+time : 546.36 sec
+amount of records: 62
+
+
+no of entities in base : 62
+no of entities with blocking :61
+accuracy :0.9838709677419355
+pricision :1.0
+recall :0.9838709677419355
+fScore :0.991869918699187
+                           
+
+
+
+
+                                              recordId  ... similarityScore
+43    5390972920f70186a0dfacf953e9bc96b7602d970491374f  ...        0.857143
+86    5390975920f70186a0dfe09553e9afcdb7602d9703a21cb7  ...        0.750000
+156   53909f6920f70186a0e3a97853e9b46fb7602d9703f6e2e2  ...        0.777778
+215   53909f8c20f70186a0e3fe6253e9afcdb7602d9703a21cb7  ...        0.750000
+276   53909f8c20f70186a0e401fc53e9bc96b7602d970491374f  ...        0.857143
+614   5390882d20f70186a0d8daf153e9be4ab7602d9704b05415  ...        0.800000
+616   5390882d20f70186a0d8daf253e9be4ab7602d9704b05415  ...        0.800000
+697   53908a4020f70186a0d9d84e53e9af33b7602d970396e8cc  ...        0.777778
+1246  5390958a20f70186a0def8df53e9b46fb7602d9703f6e2e2  ...        0.777778
+
+[9 rows x 4 columns]
+                                             recordId  ... similarityScore
+672  5390882d20f70186a0d8daf153e9be4ab7602d9704b05415  ...             0.8
+674  5390882d20f70186a0d8daf253e9be4ab7602d9704b05415  ...             0.8
+
+[2 rows x 4 columns]
+                                              recordId  ... similarityScore_y
+43    5390972920f70186a0dfacf953e9bc96b7602d970491374f  ...          0.857143
+86    5390975920f70186a0dfe09553e9afcdb7602d9703a21cb7  ...          0.750000
+155   53909f6920f70186a0e3a97853e9b46fb7602d9703f6e2e2  ...          0.777778
+214   53909f8c20f70186a0e3fe6253e9afcdb7602d9703a21cb7  ...          0.750000
+275   53909f8c20f70186a0e401fc53e9bc96b7602d970491374f  ...          0.857143
+609   5390882d20f70186a0d8daf153e9be4ab7602d9704b05415  ...          0.800000
+610   5390882d20f70186a0d8daf153e9be4ab7602d9704b05415  ...          0.800000
+611   5390882d20f70186a0d8daf153e9be4ab7602d9704b05415  ...          0.800000
+613   5390882d20f70186a0d8daf253e9be4ab7602d9704b05415  ...          0.800000
+614   5390882d20f70186a0d8daf253e9be4ab7602d9704b05415  ...          0.800000
+615   5390882d20f70186a0d8daf253e9be4ab7602d9704b05415  ...          0.800000
+696   53908a4020f70186a0d9d84e53e9af33b7602d970396e8cc  ...          0.777778
+1233  5390958a20f70186a0def8df53e9b46fb7602d9703f6e2e2  ...          0.777778
+
+[13 rows x 7 columns]
+#* --- paperTitle
+#@ --- Authors
+#t ---- Year
+#c  --- publication venue
+#index 00---- index id of this paper
+#% ---- the id of references of this paper (there are multiple lines, with each indicating a reference)
+#! --- Abstract
+
+********************************  citation-acm-v8.txt  *********************************************************
+#*INFORMS Journal on Computing
+#t2014
+#cINFORMS Journal on Computing
+#index558ac6e0612c41e6b9d39eed
+
+#*Pushout-complements and basic concepts of grammars in toposes
+#@Yasuo Kawahara
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b8
+
+#*Effective constructors the formal series of trees (French)
+#@Symeon Bozapalidis
+#t1990
+#cTheoretical Computer Science
+#index5390879920f70186a0d422b6
+
+************************************  dblp.txt  ***************************************************************
+#*Protein Kinase C, Models of.
+#@Kim L. Blackwell
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e8
+
+#*Stimulus Reconstruction from Cortical Responses.
+#@Nima Mesgarani
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273e9
+
+#*Neuromuscular Control Systems, Models of.
+#@James J. Abbas
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273ea
+
+#*Spinal Interfaces: Overview.
+#@Michel Lemay
+#t2014
+#cEncyclopedia of Computational Neuroscience
+#index55503da645ce0a409eb273eb
