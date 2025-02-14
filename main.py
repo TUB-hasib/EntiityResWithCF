@@ -9,7 +9,7 @@ from calculatingQualityMeasures import calculateQualityMeasures
 from erClustering import erClustering
 
 @functions_framework.http
-def func_file_extraction(request: flask.Request) -> flask.typing.ResponseReturnValue:
+def func_file_extraction_pattern(request: flask.Request) -> flask.typing.ResponseReturnValue:
     
     printMultiline("func_file_extraction", "Started")
     try:
@@ -49,6 +49,20 @@ def func_file_extraction(request: flask.Request) -> flask.typing.ResponseReturnV
             
 
 
+@functions_framework.http
+def func_file_extraction(request: flask.Request) -> flask.typing.ResponseReturnValue:
+
+    printMultiline("func_file_extraction", "Started")
+    try:
+        extract()
+        printMultiline("func_file_extraction", "Completed")
+        return {"status": "success", "message": "func_file_extraction Completed successfully"}, 200
+    except Exception as e:
+        return {"status": "error", "message": f"Error in function Extract: {str(e)}"}, 500
+
+    
+
+
 
 @functions_framework.http
 def func_er_with_blocking(request: flask.Request) -> flask.typing.ResponseReturnValue:
@@ -70,7 +84,7 @@ def func_er_with_brute_force(request: flask.Request) -> flask.typing.ResponseRet
 
     printMultiline("func_er_with_brute_force", "Started")
     try:
-        er_brute_froce()
+        # er_brute_froce()
         printMultiline("func_er_with_brute_force", "Completed")
         return {"status": "success", "message": "func_er_with_brute_force Completed successfully"}, 200
     except Exception as e:
