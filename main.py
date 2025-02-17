@@ -9,14 +9,14 @@ from calculatingQualityMeasures import calculateQualityMeasures
 from erClustering import erClustering
 
 @functions_framework.http
-def func_file_extraction_pattern(request: flask.Request) -> flask.typing.ResponseReturnValue:
+def func_er_pipeline(request: flask.Request) -> flask.typing.ResponseReturnValue:
     
-    printMultiline("func_file_extraction", "Started")
-    try:
-        extract()
-        printMultiline("func_file_extraction", "Completed")
-    except Exception as e:
-        return {"status": "error", "message": f"Error in function Extract: {str(e)}"}, 500
+    # Make an HTTP request to func_file_extraction
+    response = requests.get('http://localhost:8081/func_file_extraction')
+    print(response.text)
+    if response.status_code != 200:
+        return {"status": "error", "message": f"Failed to call func_file_extraction: {response.text}"}, response.status_code
+
 
     # Make an HTTP request to er_with_blocking
     response = requests.get('http://localhost:8082/func_er_with_blocking')

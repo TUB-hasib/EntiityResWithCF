@@ -24,7 +24,7 @@ functions-framework --target func_calculate_quality_measures --host=127.0.0.1 --
 functions-framework --target func_er_clustering --host=127.0.0.1 --port=8085 --debug
 
 
-functions-framework --target func_name --host=127.0.0.1 --port=8084 --debug
+functions-framework --target func_er_pipeline --host=127.0.0.1 --port=8086 --debug
 
 ```
 To execute the function open http://localhost:8080/ in your browser and see Hello world!
